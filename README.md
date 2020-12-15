@@ -15,7 +15,7 @@ data.  </p>
 <h4>Limitations<h4>
 <p> </p>
 
-<h4>Methods<h4>
+<h4>Methods</h4>
 <p> Our Methods were concentrated in the area of ELT developement(Extract, Transform, and Load).
 As part of our extraction process we used various extracting methods like webscraping, API calls, and downloading data files like csv and json. All of this gave us the foundation to begin our analysis.</p>
 
