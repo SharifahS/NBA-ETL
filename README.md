@@ -21,16 +21,26 @@ data. </p>
 <h4>Methods<h4>
 <p> </p>
 
-<h4>Instrumentation</h4>
-<p> </p>
-
 <h4>Results</h4>
 <p> </p>
 
+<h4>Instrumentation</h4>
+<ul>
+
+<li>Jupyter Notebook</li>
+<li>VS Code</li>
+<li>PostgreSQL</li>
+<li>Quick DBD</li>
+
+</ul>
+
 <h4>References</h4>
-<p> </p>
-<p> </p>
-<p> </p>
+<ul>
 
+<li> <a href="https://www.kaggle.com/">Kaggle</a></li>
+<li> <a href="https://data.world/">Data World</a></li>
+<li> <a href="pip install nba-api">NBA API Python Library</a></li>
+<li> <a href="https://www.basketball-reference.com/">Basketball Reference</a></li>
 
+</ul>
 
