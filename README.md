@@ -1,16 +1,13 @@
 # ETL NBA Report 
 
 <h4> Introduction </h4>
-
 <P> In our analysis we go through a series of processes in order 
-
 to accurately assess NBA data. These processes include extracting data, tranforming data and loading 
-
-data. </p>
+data.  </p>
 
 
 <h4>Background</h4>
-<p> </p>
+<p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and  visualization that would then be used as the foundation for our continued analysis. </p>
 
 <h4>Purpose</h4>
 <p> </p>
@@ -19,7 +16,12 @@ data. </p>
 <p> </p>
 
 <h4>Methods<h4>
-<p> </p>
+<p> Our Methods were concentrated in the area of ELT developement(Extract, Transform, and Load).
+As part of our extraction process we used various extracting methods like webscraping, API calls, and downloading data files like csv and json. All of this gave us the foundation to begin our analysis.</p>
+
+<p>Next we began our transformational modification with all the data collected. (Specifics)</p>
+
+<p>Load</p>
 
 <h4>Results</h4>
 <p> </p>
@@ -27,10 +29,10 @@ data. </p>
 <h4>Instrumentation</h4>
 <ul>
 
-<li>Jupyter Notebook</li>
 <li>VS Code</li>
-<li>PostgreSQL</li>
 <li>Quick DBD</li>
+<li>PostgreSQL</li>
+<li>Jupyter Notebook</li>
 
 </ul>
 
@@ -39,8 +41,7 @@ data. </p>
 
 <li> <a href="https://www.kaggle.com/">Kaggle</a></li>
 <li> <a href="https://data.world/">Data World</a></li>
-<li> <a href="pip install nba-api">NBA API Python Library</a></li>
 <li> <a href="https://www.basketball-reference.com/">Basketball Reference</a></li>
-
+<li> <a href="pip install nba-api">NBA API Python Library</a></li>
 </ul>
 
