@@ -1,9 +1,36 @@
 # ETL NBA Report 
 
-<P> In this project we go through a series of processes in order 
+<h3> Introduction </h3>
 
-to accurately assess the data within the NBA franchise.
+<P> In our analysis we go through a series of processes in order 
 
-These processes include extracting data, tranforming data and loading 
+to accurately assess NBA data. These processes include extracting data, tranforming data and loading 
 
-data.</p>
+data. </p>
+
+
+<h3>Background</h3>
+<p> </p>
+
+<h3>Purpose</h3>
+<p> </p>
+
+<h3>Limitations<h3>
+<p> </p>
+
+<h3>Methods<h3>
+<p> </p>
+
+<h3>Instrumentation</h3>
+<p> </p>
+
+<h3>Results</h3>
+<p> </p>
+
+<h3>References</h3>
+<p> </p>
+<p> </p>
+<p> </p>
+
+
+
