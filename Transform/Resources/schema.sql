@@ -31,7 +31,10 @@ CREATE TABLE "GOAT_playoffs_games" (
     "AST" float   NOT NULL,
     "PTS" int   NOT NULL,
     "BLK" float   NOT NULL,
-    "STL" float   NOT NULL
+    "STL" float   NOT NULL,
+    CONSTRAINT "pk_GOAT_playoffs_games" PRIMARY KEY (
+        "name"
+     )
 );
 
 CREATE TABLE "NBA_Season_Data" (
@@ -54,7 +57,7 @@ CREATE TABLE "NBA_Season_Data" (
     "TOV%" float   NOT NULL,
     "USG%" float   NOT NULL,
     CONSTRAINT "pk_NBA_Season_Data" PRIMARY KEY (
-        "Player"
+        "Tm"
      )
 );
 
@@ -87,26 +90,29 @@ CREATE TABLE "player_per_game_stats" (
     "BLK" float   NOT NULL,
     "TOV" float   NOT NULL,
     "PF" float   NOT NULL,
-    "PTS" float   NOT NULL
+    "PTS" float   NOT NULL,
+    CONSTRAINT "pk_player_per_game_stats" PRIMARY KEY (
+        "Player"
+     )
 );
 
 CREATE TABLE "Team_Player" (
     "Team_Name" varchar   NOT NULL,
-    "Team_Abbr" varchar   NOT NULL
+    "Team_Abbr" varchar   NOT NULL,
+    CONSTRAINT "pk_Team_Player" PRIMARY KEY (
+        "Team_Abbr"
+     )
 );
 
 ALTER TABLE "GOAT_playoffs_games" ADD CONSTRAINT "fk_GOAT_playoffs_games_name" FOREIGN KEY("name")
 REFERENCES "active_players_info" ("PLAYER");
 
-ALTER TABLE "GOAT_playoffs_games" ADD CONSTRAINT "fk_GOAT_playoffs_games_Player_ID" FOREIGN KEY("Player_ID")
-REFERENCES "NBA_Season_Data" ("Player");
-
 ALTER TABLE "NBA_Season_Data" ADD CONSTRAINT "fk_NBA_Season_Data_Tm" FOREIGN KEY("Tm")
 REFERENCES "Team_Player" ("Team_Abbr");
 
+ALTER TABLE "NBA_Season_Data" ADD CONSTRAINT "fk_NBA_Season_Data_Player" FOREIGN KEY("Player")
+REFERENCES "GOAT_playoffs_games" ("name");
+
 ALTER TABLE "player_per_game_stats" ADD CONSTRAINT "fk_player_per_game_stats_Player" FOREIGN KEY("Player")
 REFERENCES "active_players_info" ("PLAYER");
-
-ALTER TABLE "Team_Player" ADD CONSTRAINT "fk_Team_Player_Team_Abbr" FOREIGN KEY("Team_Abbr")
-REFERENCES "player_per_game_stats" ("Tm");
 

@@ -1,85 +1,86 @@
-active_players_info	
---	
-index	int
-PLAYER	varchar
-POS	varchar
-HEIGHT	varchar
-WEIGHT	int
-BIRTH_DATE	int
-NATIONALITY	varchar
-EXPERIENCE	varchar
-COLLEGE	varchar
-	
-GOAT_playoffs_games	
---	
-name	varchar
-Player_ID	int
-MATCHUP	varchar
-WL	varchar
-FG3_PCT	float
-FGM	int
-FTM	int
-MIN	int
-REB	int
-AST	float
-PTS	int
-BLK	float
-STL	float
-	
-NBA_Season_Data	
---	
-Year	int
-Tm	varchar
-Player	varchar
-Age	int
-G	int
-MP	int
-PER	float
-TS%	float
-3PAr	float
-FTr	float
-ORB%	float
-DRB%	float
-TRB%	float
-AST%	float
-STL%	float
-BLK%	float
-TOV%	float
-USG%	float
-	
-player_per_game_stats	
---	
-Player	varchar
-Pos	varchar
-Age	float
-Tm	varchar
-G	float
-GS	float
-MP	float
-FG	float
-FGA	float
-FG%	varchar
-3P	float
-3PA	float
-3P%	varchar
-2P	float
-2PA	float
-2P%	varchar
-eFG%	varchar
-FT	float
-FTA	float
-FT%	varchar
-ORB	float
-DRB	float
-TRB	float
-AST	float
-STL	float
-BLK	float
-TOV	float
-PF	float
-PTS	float
-	
-Team_Player	
---	
-Team_Name	varchar
-Team_Abbr	varchar
+active_players_info
+--
+level_0 int
+index int
+PLAYER varchar
+POS varchar
+HEIGHT varchar
+WEIGHT int
+BIRTH_DATE int
+NATIONALITY varchar
+EXPERIENCE varchar
+COLLEGE varchar
+
+GOAT_playoffs_games
+--
+name varchar
+Player_ID int
+MATCHUP varchar
+WL varchar
+FG3_PCT float
+FGM int
+FTM int
+MIN int
+REB int
+AST float
+PTS int
+BLK float
+STL float
+
+NBA_Season_Data
+--
+Year int
+Tm varchar
+Player varchar
+Age int
+G int
+MP int
+PER float
+TS% float
+3PAr float
+FTr float
+ORB% float
+DRB% float
+TRB% float
+AST% float
+STL% float
+BLK% float
+TOV% float
+USG% float
+
+player_per_game_stats
+--
+Player varchar
+Pos varchar
+Age float
+Tm varchar
+G float
+GS float
+MP float
+FG float
+FGA float
+FG% varchar
+3P float
+3PA float
+3P% varchar
+2P float
+2PA float
+2P% varchar
+eFG% varchar
+FT float
+FTA float
+FT% varchar
+ORB float
+DRB float
+TRB float
+AST float
+STL float
+BLK float
+TOV float
+PF float
+PTS float
+
+Team_Player
+--
+Team_Name varchar
+Team_Abbr varchar
