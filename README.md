@@ -7,10 +7,10 @@ data.  </p>
 
 
 <h4>Background</h4>
-<p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and  visualization that would then be used as the foundation for our continued analysis. </p>
+<p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
 
 <h4>Purpose</h4>
-<p> </p>
+<p>The purpose of this assignment is to showcase our ability to extract data from various sources as well as cleaning the data and loading the results in a database with public access. </p>
 
 <h4>Limitations<h4>
 <p> </p>
