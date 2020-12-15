@@ -1,6 +1,6 @@
 # ETL NBA Report 
 
-<h4 style="color:blue"> Introduction </h4>
+<h4 style="color:#FF0000;"> Introduction </h4>
 
 <P> In our analysis we go through a series of processes in order 
 
