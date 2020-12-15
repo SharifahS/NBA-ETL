@@ -1,6 +1,6 @@
 # ETL NBA Report 
 
-<h4 style="color:#FF0000;"> Introduction </h4>
+<h4> Introduction </h4>
 
 <P> In our analysis we go through a series of processes in order 
 
@@ -9,25 +9,25 @@ to accurately assess NBA data. These processes include extracting data, tranform
 data. </p>
 
 
-<h3>Background</h3>
+<h4>Background</h4>
 <p> </p>
 
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p> </p>
 
-<h3>Limitations<h3>
+<h4>Limitations<h4>
 <p> </p>
 
-<h3>Methods<h3>
+<h4>Methods<h4>
 <p> </p>
 
-<h3>Instrumentation</h3>
+<h4>Instrumentation</h4>
 <p> </p>
 
-<h3>Results</h3>
+<h4>Results</h4>
 <p> </p>
 
-<h3>References</h3>
+<h4>References</h4>
 <p> </p>
 <p> </p>
 <p> </p>
