@@ -1,7 +1,7 @@
 # ETL NBA Report 
 
 <h4> Introduction </h4>
-<P> In our analysis we go through a series of processes in order to accurately assess NBA data. These processes includes extracting data, transforming data and loading data. The analysis provides information obtained through many data sources and goes through step by step transformations. It explores a variety of NBA statistics.  </p>
+<P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
 
 <h4>Background</h4>
 <p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
