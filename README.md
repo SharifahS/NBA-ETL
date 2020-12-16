@@ -1,28 +1,24 @@
 # ETL NBA Report 
 
 <h4> Introduction </h4>
-<P> In our analysis we go through a series of processes in order 
-to accurately assess NBA data. These processes include extracting data, transforming data and loading 
-data.  </p>
-
+<P> In our analysis we go through a series of processes in order to accurately assess NBA data. These processes includes extracting data, transforming data and loading data. The analysis provides information obtained through many data sources and goes through step by step transformations. It explores a variety of NBA statistics.  </p>
 
 <h4>Background</h4>
-<p> This project is the second series to a 4 parts analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
+<p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
 
 <h4>Purpose</h4>
 <p>The purpose of this assignment is to showcase our ability to extract data from various sources as well as cleaning the data and loading the results in a database with public access. </p>
 
-
 <h4>Methods</h4>
-<p> Our Methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
-As part of our extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
+<p> Our methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
+As part of the extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
 
-<p>Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary keys aswell as foreign keys to prepare for the loading of each table. </p>
+<p> Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the loading of each table. </p>
 
-<p>Load: We initially wanted to load the tables into Postgres.  However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead.</p>
+<p>In this final portion of this project we uploaded each clean table that was created and stored it into the mongodb database. This completes the loading aspect of the project and our data tables can now be accessed at anytime.</p>
 
-<h4>Limitations<h4>
-<p> </p>
+<h4>Limitations</h4>
+<p>Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead.</p>
 
 <h4>Results</h4>
 <p> </p>
@@ -34,7 +30,6 @@ As part of our extraction process we used various extracting methods like web sc
 <li>Quick DBD</li>
 <li>PostgreSQL</li>
 <li>Jupyter Notebook</li>
-
 
 </ul>
 
