@@ -19,7 +19,7 @@ As part of our extraction process we used various extracting methods like web sc
 
 <p>Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary keys aswell as foreign keys to prepare for the loading of each table. </p>
 
-<p>Load</p>
+<p>Load: We initially wanted to load the tables into Postgres.  However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead.</p>
 
 <h4>Limitations<h4>
 <p> </p>
