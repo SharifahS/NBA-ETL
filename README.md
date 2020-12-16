@@ -11,14 +11,14 @@
 
 <h4>Methods</h4>
 <p> Our methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
-As part of our extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
+As part of the extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
 
 <p> Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the loading of each table. </p>
 
 <p>In this final portion of this project we uploaded each clean table that was created and stored it into the mongodb database. This completes the loading aspect of the project and our data tables can now be accessed at anytime.</p>
 
-<h4>Limitations<h4>
-<p>Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead. </p>
+<h4>Limitations</h4>
+<p>Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead.</p>
 
 <h4>Results</h4>
 <p> </p>
