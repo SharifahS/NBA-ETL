@@ -4,7 +4,7 @@
 <P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
 
 <h4>Background</h4>
-<p> This project is the second series to a 4 part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
+<p> This project is the second series to a four part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
 
 <h4>Purpose</h4>
 <p>The purpose of this assignment is to showcase our ability to extract data from various sources as well as cleaning the data and loading the results in a database with public access. </p>
