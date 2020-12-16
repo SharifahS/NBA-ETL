@@ -1,531 +1,767 @@
 ,PLAYER,POS,HEIGHT,WEIGHT,BIRTH_DATE,NATIONALITY,EXPERIENCE,COLLEGE
-0,DeAndre' Bembry,SG,6-5,210,773280000000,US,3,Saint Joseph's
-1,Charlie Brown,SG,6-6,199,854841600000,US,R,Saint Joseph's
-2,Vince Carter,PF,6-6,220,223084800000,US,21,UNC
-3,John Collins,PF,6-9,235,874972800000,US,2,Wake Forest
-4,Bruno Fernando,C,6-9,240,903139200000,AO,R,Maryland
-5,Brandon Goodwin,PG,6-0,180,812592000000,US,1,"Central Florida, Florida Gulf Coast"
-6,Kevin Huerter,SG,6-7,190,904176000000,US,1,Maryland
-7,De'Andre Hunter,SF,6-7,225,881020800000,US,R,Virginia
-8,Damian Jones,C,6-11,245,804470400000,US,3,Vanderbilt
-9,Chandler Parsons,PF,6-9,230,593740800000,US,8,Florida
-10,Cam Reddish,SF,6-8,218,936144000000,US,R,Duke
-11,Evan Turner,SG,6-6,220,593913600000,US,9,Ohio State
-12,Tyrone Wallace,SG,6-5,198,771206400000,US,2,California
-13,Trae Young,PG,6-1,180,906163200000,US,1,Oklahoma
-14,Jaylen Brown,SG,6-6,223,846115200000,US,3,California
-15,Carsen Edwards,SG,5-11,200,889660800000,US,R,Purdue
-16,Tacko Fall,C,7-5,311,818553600000,SN,R,Central Florida
-17,Javonte Green,SG,6-4,205,743385600000,US,R,Radford
-18,Gordon Hayward,SF,6-7,225,638150400000,US,9,Butler
-19,Enes Kanter,C,6-10,250,706320000000,CH,8,
-20,Romeo Langford,SG,6-4,216,940809600000,US,R,Indiana
-21,Semi Ojeleye,PF,6-6,240,786585600000,US,2,"Duke, SMU"
-22,Vincent Poirier,C,7-0,235,750816000000,FR,R,
-23,Marcus Smart,SG,6-3,220,762912000000,US,5,Oklahoma State
-24,Jayson Tatum,PF,6-8,210,888883200000,US,2,Duke
-25,Daniel Theis,C,6-8,245,702345600000,DE,2,
-26,Kemba Walker,PG,6-0,184,642124800000,US,8,UConn
-27,Brad Wanamaker,PG,6-3,210,617328000000,US,1,Pitt
-28,Tremont Waters,PG,5-10,175,884390400000,US,R,LSU
-29,Grant Williams,PF,6-6,236,912384000000,US,R,Tennessee
-30,Robert Williams,C,6-8,237,877046400000,US,1,Texas A&M
-31,Jarrett Allen,C,6-11,243,893116800000,US,2,Texas
-32,Justin Anderson,SG,6-6,230,753667200000,US,4,Virginia
-33,Wilson Chandler,PF,6-8,235,547603200000,US,11,DePaul
-34,Nicolas Claxton,C,6-11,215,924307200000,US,R,Georgia
-35,Jamal Crawford,SG,6-5,185,322358400000,US,19,Michigan
-36,Spencer Dinwiddie,PG,6-5,215,734054400000,US,5,Colorado
-37,Henry Ellenson,C,6-10,240,853113600000,US,3,Marquette
-38,Joe Harris,SF,6-6,220,684115200000,US,5,Virginia
-39,Kyrie Irving,PG,6-2,195,701308800000,AU,8,Duke
-40,DeAndre Jordan,C,6-11,265,585446400000,US,11,Texas A&M
-41,Rodions Kurucs,PF,6-9,228,886636800000,LV,1,
-42,Caris LeVert,SG,6-6,205,777772800000,US,3,Michigan
-43,TimothÃ© Luwawu-Cabarrot,SF,6-7,220,799977600000,FR,3,
-44,Jeremiah Martin,PG,6-3,185,835142400000,US,R,Memphis
-45,DÅ¾anan Musa,SF,6-9,217,926121600000,BA,1,
-46,David Nwaba,SG,6-5,219,726969600000,US,3,Cal Poly
-47,Theo Pinson,SG,6-5,212,815529600000,US,1,UNC
-48,Taurean Prince,PF,6-7,218,764294400000,US,3,Baylor
-49,Iman Shumpert,SF,6-5,215,646358400000,US,8,Georgia Tech
-50,Garrett Temple,SG,6-5,195,515894400000,US,9,LSU
-51,Lance Thomas,PF,6-8,240,577843200000,US,8,Duke
-52,Dwayne Bacon,SG,6-6,221,809740800000,US,2,Florida State
-53,Nicolas Batum,SF,6-9,230,598060800000,FR,11,
-54,Bismack Biyombo,C,6-8,255,714960000000,CD,8,
-55,Miles Bridges,SF,6-6,225,890438400000,US,1,Michigan State
-56,Joe Chealey,PG,6-3,190,815184000000,US,1,College of Charleston
-57,Devonte' Graham,PG,6-1,195,793411200000,US,1,Kansas
-58,Willy HernangÃ³mez,C,6-11,250,769996800000,ES,3,
-59,Caleb Martin,SF,6-5,205,812246400000,US,R,"NC State, Nevada"
-60,Cody Martin,SF,6-5,205,812246400000,US,R,"NC State, Nevada"
-61,Jalen McDaniels,SF,6-10,205,886204800000,US,R,San Diego State
-62,Malik Monk,SG,6-3,200,886550400000,US,2,Kentucky
-63,Terry Rozier,PG,6-1,190,763862400000,US,4,Louisville
-64,P.J. Washington,PF,6-7,230,903830400000,US,R,Kentucky
-65,Cody Zeller,C,7-0,240,718243200000,US,6,Indiana
-66,Marques Bolden,C,6-11,245,892771200000,US,R,Duke
-67,Matthew Dellavedova,PG,6-3,200,652752000000,AU,6,Saint Mary's
-68,Darius Garland,SG,6-1,192,948844800000,US,R,Vanderbilt
-69,Kevin Love,PF,6-8,251,589593600000,US,11,UCLA
-70,J.P. Macura,SG,6-5,203,802310400000,US,1,Xavier
-71,Alfonzo McKinnie,SF,6-7,215,716688000000,US,2,Green Bay
-72,Matt Mooney,SG,6-3,199,855273600000,US,R,"Air Force, South Dakota, Texas Tech"
-73,Larry Nance,PF,6-7,245,725846400000,US,4,Wyoming
-74,Malik Newman,SG,6-3,190,856483200000,US,R,"Mississippi State, Kansas"
-75,Cedi Osman,SF,6-7,230,797299200000,MK,2,
-76,Kevin Porter,SF,6-4,203,957398400000,US,R,USC
-77,Collin Sexton,PG,6-1,190,915408000000,US,1,Alabama
-78,Tristan Thompson,PF,6-9,254,668822400000,CA,8,Texas
-79,Dean Wade,PF,6-9,228,848448000000,US,R,Kansas State
-80,Ante Å½iÅ¾iÄ‡,C,6-10,266,852336000000,HR,2,
-81,J.J. Barea,PG,5-10,180,457056000000,PR,13,Northeastern University
-82,Ryan Broekhoff,SF,6-6,215,651369600000,AU,1,Valparaiso
-83,Jalen Brunson,PG,6-1,190,841449600000,US,1,Villanova
-84,Antonius Cleveland,SG,6-5,195,760147200000,US,1,SE Missouri State
-85,Seth Curry,SG,6-2,185,651369600000,US,5,"Liberty, Duke"
-86,Luka DonÄiÄ‡,PG,6-7,230,920160000000,SI,1,
-87,Dorian Finney-Smith,PF,6-7,220,736473600000,US,3,Florida
-88,Tim Hardaway,SG,6-5,205,700704000000,US,6,Michigan
-89,Justin Jackson,PF,6-7,220,796348800000,US,2,UNC
-90,Michael Kidd-Gilchrist,PF,6-6,232,749001600000,US,7,Kentucky
-91,Maxi Kleber,PF,6-10,240,696643200000,DE,2,
-92,Courtney Lee,SG,6-5,215,497145600000,US,11,Western Kentucky
-93,Boban MarjanoviÄ‡,C,7-4,290,587606400000,RS,4,
-94,Kristaps PorziÅ†Ä£is,C,7-3,240,807321600000,LV,3,
-95,Dwight Powell,C,6-10,240,679968000000,CA,5,Stanford
-96,Josh Reaves,SF,6-4,214,865382400000,US,R,Penn State
-97,Delon Wright,PG,6-5,185,704246400000,US,4,Utah
-98,Will Barton,SF,6-5,181,663120000000,US,7,Memphis
-99,Bol Bol,PF,7-2,220,942710400000,SD,R,Oregon
-100,Vlatko ÄŒanÄar,PF,6-8,236,860630400000,SI,R,
-101,Tyler Cook,SF,6-8,255,874972800000,US,R,Iowa
-102,Torrey Craig,SF,6-7,221,661564800000,US,2,USC Upstate
-103,PJ Dozier,SG,6-6,205,846201600000,US,2,South Carolina
-104,Jerami Grant,PF,6-8,210,763430400000,US,5,Syracuse
-105,Gary Harris,SG,6-4,210,779500800000,US,5,Michigan State
-106,Nikola JokiÄ‡,C,7-0,284,793152000000,RS,4,
-107,Paul Millsap,PF,6-7,257,476841600000,US,13,Louisiana Tech
-108,Monte Morris,PG,6-2,183,804211200000,US,2,Iowa State
-109,Jamal Murray,PG,6-4,215,856656000000,CA,3,Kentucky
-110,Mason Plumlee,C,6-11,254,636595200000,US,6,Duke
-111,Michael Porter,SF,6-10,218,899078400000,US,R,Missouri
-112,Jordan Bone,PG,6-3,180,878688000000,US,R,Tennessee
-113,Bruce Brown,PG,6-4,202,840067200000,US,1,Miami (FL)
-114,Sekou Doumbouya,PF,6-8,230,977529600000,GN,R,
-115,Andre Drummond,C,6-10,279,744940800000,US,7,UConn
-116,Tim Frazier,PG,6-0,170,657417600000,US,5,Penn State
-117,Langston Galloway,SG,6-1,200,692236800000,US,5,Saint Joseph's
-118,Blake Griffin,PF,6-9,250,606009600000,US,9,Oklahoma
-119,Donta Hall,PF,6-9,232,870912000000,US,R,Alabama
-120,John Henson,C,6-9,219,662342400000,US,7,UNC
-121,Luke Kennard,SG,6-5,206,835574400000,US,2,Duke
-122,Louis King,SF,6-7,205,923356800000,US,R,Oregon
-123,Brandon Knight,PG,6-2,182,691632000000,US,7,Kentucky
-124,Thon Maker,C,7-0,221,856828800000,SS,3,
-125,Sviatoslav Mykhailiuk,SF,6-7,205,865900800000,UA,1,Kansas
-126,Derrick Rose,PG,6-2,200,591926400000,US,10,Memphis
-127,Tony Snell,SF,6-6,213,689731200000,US,6,New Mexico
-128,Khyri Thomas,SG,6-3,210,831513600000,US,1,Creighton
-129,Christian Wood,PF,6-10,214,812160000000,US,3,UNLV
-130,Ky Bowman,PG,6-1,187,866419200000,US,R,Boston College
-131,Willie Cauley-Stein,C,7-0,240,745632000000,US,4,Kentucky
-132,Marquese Chriss,PF,6-9,240,867801600000,US,3,Washington
-133,Stephen Curry,PG,6-3,185,574300800000,US,10,Davidson
-134,Draymond Green,PF,6-6,230,636508800000,US,7,Michigan State
-135,Damion Lee,SG,6-5,210,719625600000,US,2,"Drexel, Louisville"
-136,Kevon Looney,C,6-9,222,823564800000,US,4,UCLA
-137,Mychal Mulder,SF,6-4,184,771379200000,CA,R,"Vincennes, Kentucky"
-138,Jeremy Pargo,PG,6-2,219,511401600000,US,2,Gonzaga
-139,Eric Paschall,PF,6-6,255,847065600000,US,R,"Fordham, Villanova"
-140,Jordan Poole,SG,6-4,194,929750400000,US,R,Michigan
-141,Chasson Randle,PG,6-2,185,728870400000,US,2,Stanford
-142,Alen SmailagiÄ‡,C,6-10,215,966556800000,RS,R,
-143,Omari Spellman,C,6-8,245,869443200000,US,1,Villanova
-144,Juan Toscano-Anderson,SG,6-6,209,734400000000,US,R,Marquette
-145,Ryan Anderson,C,6-9,240,578880000000,US,11,California
-146,Clint Capela,C,6-10,240,769219200000,CH,5,
-147,Tyson Chandler,C,7-0,235,402364800000,US,18,
-148,Chris Clemons,SG,5-9,180,869616000000,US,R,Campbell
-149,Michael Frazier,SG,6-3,200,763084800000,US,R,Florida
-150,Eric Gordon,SF,6-3,215,599011200000,US,11,Indiana
-151,James Harden,SG,6-5,220,620092800000,US,10,Arizona State
-152,Isaiah Hartenstein,C,7-0,249,894326400000,US,1,
-153,Danuel House,SF,6-6,220,739411200000,US,3,Texas A&M
-154,William Howard,PF,6-8,207,751507200000,FR,R,
-155,Luc Mbah a Moute,PF,6-8,230,526608000000,CM,11,UCLA
-156,Ben McLemore,SF,6-3,195,729388800000,US,6,Kansas
-157,Austin Rivers,SG,6-3,200,712627200000,US,7,Duke
-158,Thabo Sefolosha,PF,6-6,215,452304000000,CH,13,
-159,P.J. Tucker,PF,6-5,245,484099200000,US,8,Texas
-160,Russell Westbrook,PG,6-3,200,595296000000,US,11,UCLA
-161,Patrick Beverley,PG,6-1,180,584668800000,US,7,Arkansas
-162,Amir Coffey,SG,6-7,210,866505600000,US,R,Minnesota
-163,Paul George,SG,6-8,220,641606400000,US,9,Fresno State
-164,JaMychal Green,PF,6-8,227,645926400000,US,5,Alabama
-165,Montrezl Harrell,C,6-7,240,759542400000,US,4,Louisville
-166,Reggie Jackson,SG,6-3,208,640224000000,IT,8,Boston College
-167,Mfiondu Kabengele,C,6-9,250,871516800000,CA,R,Florida State
-168,Kawhi Leonard,SF,6-7,225,678153600000,US,8,San Diego State
-169,Terance Mann,SF,6-5,215,845596800000,US,R,Florida State
-170,Rodney McGruder,SG,6-4,205,680745600000,US,3,Kansas State
-171,Johnathan Motley,PF,6-8,230,799545600000,US,2,Baylor
-172,Joakim Noah,C,6-11,230,478137600000,US,12,Florida
-173,Patrick Patterson,PF,6-8,235,605836800000,US,9,Kentucky
-174,Landry Shamet,SG,6-4,190,858211200000,US,1,Wichita State
-175,Derrick Walton,PG,6-0,189,796867200000,US,1,Michigan
-176,Lou Williams,PG,6-1,175,530755200000,US,14,
-177,Ivica Zubac,C,7-0,240,858643200000,BA,3,
-178,Kostas Antetokounmpo,PF,6-10,200,879984000000,GR,1,Dayton
-179,Avery Bradley,SG,6-3,180,659577600000,US,9,Texas
-180,Devontae Cacok,C,6-7,240,844732800000,US,R,UNC Wilmington
-181,Kentavious Caldwell-Pope,SG,6-5,204,729993600000,US,6,Georgia
-182,Alex Caruso,PG,6-5,186,762393600000,US,2,Texas A&M
-183,Quinn Cook,PG,6-1,180,732844800000,US,3,Duke
-184,Troy Daniels,SG,6-4,200,679536000000,US,6,VCU
-185,Anthony Davis,PF,6-10,253,731808000000,US,7,Kentucky
-186,Jared Dudley,PF,6-6,237,489801600000,US,12,Boston College
-187,Danny Green,SG,6-6,215,551318400000,US,10,UNC
-188,Talen Horton-Tucker,SG,6-4,234,975110400000,US,R,Iowa State
-189,Dwight Howard,C,6-10,265,502848000000,US,15,
-190,LeBron James,PG,6-9,250,473212800000,US,16,
-191,Kyle Kuzma,PF,6-8,221,806544000000,US,2,Utah
-192,JaVale McGee,C,7-0,270,569548800000,US,11,Nevada
-193,Markieff Morris,PF,6-8,245,620697600000,US,8,Kansas
-194,Zach Norvell,SG,6-5,206,881625600000,US,R,Gonzaga
-195,Rajon Rondo,PG,6-1,180,509414400000,US,13,Kentucky
-196,J.R. Smith,SG,6-6,225,495072000000,US,15,
-197,Grayson Allen,SG,6-4,198,813110400000,US,1,Duke
-198,Kyle Anderson,SF,6-9,230,748483200000,US,5,UCLA
-199,Dillon Brooks,SG,6-7,225,822268800000,CA,2,Oregon
-200,Bruno Caboclo,C,6-9,218,811641600000,BR,5,
-201,Brandon Clarke,PF,6-8,215,843091200000,CA,R,"San Jose State, Gonzaga"
-202,Marko Guduric,SG,6-6,201,794620800000,RS,R,
-203,Dusty Hannahs,SG,6-3,210,746928000000,US,1,"Texas Tech, Arkansas"
-204,Jaren Jackson,C,6-11,242,937353600000,US,1,Michigan State
-205,Josh Jackson,SF,6-8,207,855532800000,US,2,Kansas
-206,Tyus Jones,PG,6-0,196,831686400000,US,4,Duke
-207,John Konchar,SG,6-5,210,827452800000,US,R,Purdue-Fort Wayne
-208,De'Anthony Melton,PG,6-2,200,896313600000,US,1,USC
-209,Ja Morant,PG,6-3,174,934243200000,US,R,Murray State
-210,Jonas ValanÄiÅ«nas,C,6-11,265,705110400000,LT,7,
-211,Yuta Watanabe,SF,6-8,215,782006400000,JP,1,George Washington
-212,Bam Adebayo,PF,6-9,255,869184000000,US,2,Kentucky
-213,Kyle Alexander,C,6-11,220,845856000000,CA,R,Tennessee
-214,Jimmy Butler,SF,6-7,230,621734400000,US,8,Marquette
-215,Jae Crowder,PF,6-6,235,647222400000,US,7,Marquette
-216,Goran DragiÄ‡,PG,6-3,190,515721600000,SI,11,
-217,Udonis Haslem,C,6-8,235,329356800000,US,16,Florida
-218,Tyler Herro,SG,6-5,195,948326400000,US,R,Kentucky
-219,Solomon Hill,PF,6-6,226,669254400000,US,6,Arizona
-220,Andre Iguodala,SF,6-6,215,444096000000,US,15,Arizona
-221,Derrick Jones,SF,6-6,210,855964800000,US,3,UNLV
-222,Meyers Leonard,C,7-0,260,699148800000,US,7,Illinois
-223,Daryl Macon,PG,6-2,185,817603200000,US,1,Arkansas
-224,Kendrick Nunn,PG,6-2,190,807408000000,US,R,"Illinois, Oakland"
-225,KZ Okpala,PF,6-8,215,925257600000,US,R,Stanford
-226,Kelly Olynyk,C,6-11,240,672019200000,CA,6,Gonzaga
-227,Duncan Robinson,SG,6-7,215,766972800000,US,1,"Williams, Michigan"
-228,Chris Silva,PF,6-8,234,843091200000,GA,R,South Carolina
-229,Gabe Vincent,PG,6-3,200,834710400000,US,R,UC Santa Barbara
-230,Dion Waiters,SG,6-3,215,692323200000,US,7,Syracuse
-231,Justise Winslow,SG,6-6,222,827798400000,US,4,Duke
-232,Giannis Antetokounmpo,PF,6-11,242,786672000000,GR,6,
-233,Thanasis Antetokounmpo,SF,6-6,219,711417600000,GR,1,
-234,Dragan Bender,C,7-0,225,879724800000,BA,3,
-235,Eric Bledsoe,PG,6-1,214,629164800000,US,9,Kentucky
-236,Sterling Brown,SF,6-5,219,792374400000,US,2,SMU
-237,Pat Connaughton,SG,6-5,209,726278400000,US,4,Notre Dame
-238,Donte DiVincenzo,SG,6-4,203,854668800000,US,1,Villanova
-239,George Hill,PG,6-3,188,515548800000,US,11,IUPUI
-240,Ersan Ä°lyasova,PF,6-9,235,548035200000,TR,11,
-241,Kyle Korver,SF,6-7,212,353635200000,US,16,Creighton
-242,Brook Lopez,C,7-0,282,575856000000,US,11,Stanford
-243,Robin Lopez,C,7-0,281,575856000000,US,11,Stanford
-244,Frank Mason,PG,5-11,190,765331200000,US,2,Kansas
-245,Wesley Matthews,SG,6-4,220,529632000000,US,10,Marquette
-246,Khris Middleton,SF,6-7,222,681955200000,US,7,Texas A&M
-247,Marvin Williams,PF,6-8,237,519523200000,US,14,UNC
-248,D.J. Wilson,PF,6-10,231,824688000000,US,2,Michigan
-249,Keita Bates-Diop,PF,6-8,229,822355200000,US,1,Ohio State
-250,Malik Beasley,SG,6-4,187,848966400000,US,3,Florida State
-251,Jordan Bell,C,6-8,216,789436800000,US,2,Oregon
-252,Robert Covington,PF,6-7,209,661132800000,US,6,Tennessee State
-253,Allen Crabbe,SF,6-5,212,702777600000,US,6,California
-254,Jarrett Culver,SG,6-6,195,919468800000,US,R,Texas Tech
-255,Gorgui Dieng,C,6-10,252,632620800000,SN,6,Louisville
-256,Jacob Evans,SG,6-4,210,866592000000,US,1,Cincinnati
-257,Treveon Graham,SF,6-5,219,751766400000,US,3,VCU
-258,Juan HernangÃ³mez,PF,6-9,214,812246400000,ES,3,
-259,James Johnson,C,6-7,240,540777600000,US,10,Wake Forest
-260,Jake Layman,SF,6-8,209,762998400000,US,3,Maryland
-261,Kelan Martin,SF,6-5,230,807408000000,US,R,Butler
-262,Jordan McLaughlin,PG,5-11,185,829008000000,US,R,USC
-263,Jaylen Nowell,SG,6-4,201,931478400000,US,R,Washington
-264,Josh Okogie,SG,6-4,213,904608000000,NG,1,Georgia Tech
-265,Naz Reid,C,6-9,264,935625600000,US,R,LSU
-266,D'Angelo Russell,PG,6-4,193,825033600000,US,4,Ohio State
-267,Jeff Teague,PG,6-3,195,581904000000,US,10,Wake Forest
-268,Karl-Anthony Towns,C,6-11,248,816393600000,US,4,Kentucky
-269,Jarred Vanderbilt,PF,6-9,214,923097600000,US,1,Kentucky
-270,Noah Vonleh,C,6-10,257,809222400000,US,5,Indiana
-271,Andrew Wiggins,SF,6-7,197,793497600000,CA,5,Kansas
-272,Nickeil Alexander-Walker,SG,6-5,205,904694400000,CA,R,Virginia Tech
-273,Lonzo Ball,PG,6-6,190,877910400000,US,2,UCLA
-274,Zylan Cheatham,PF,6-5,220,816566400000,US,R,"San Diego State, Arizona State"
-275,Derrick Favors,C,6-9,265,679536000000,US,9,Georgia Tech
-276,Josh Gray,PG,6-0,180,747532800000,US,1,LSU
-277,Josh Hart,SF,6-5,215,794448000000,US,2,Villanova
-278,Jaxson Hayes,C,6-11,220,959040000000,US,R,Texas
-279,Jrue Holiday,SG,6-3,205,645148800000,US,10,UCLA
-280,Brandon Ingram,PF,6-7,190,873158400000,US,3,Duke
-281,Frank Jackson,PG,6-3,205,894240000000,US,1,Duke
-282,NicolÃ² Melli,C,6-9,236,664848000000,IT,R,
-283,E'Twaun Moore,SG,6-3,191,604368000000,US,8,Purdue
-284,Jahlil Okafor,C,6-10,270,818985600000,US,4,Duke
-285,J.J. Redick,SG,6-3,200,456883200000,US,13,Duke
-286,Sindarius Thornwell,SF,6-5,215,784857600000,US,2,South Carolina
-287,Kenrich Williams,PF,6-6,210,786326400000,US,1,TCU
-288,Zion Williamson,PF,6-6,284,962841600000,US,R,Duke
-289,Kadeem Allen,PG,6-1,200,727056000000,US,2,Arizona
-290,RJ Barrett,SG,6-6,214,960940800000,CA,R,Duke
-291,Ignas Brazdeikis,SF,6-6,221,915753600000,LT,R,Michigan
-292,Reggie Bullock,SG,6-6,205,669081600000,US,6,UNC
-293,Damyean Dotson,SG,6-5,210,768182400000,US,2,"Oregon, Houston"
-294,Wayne Ellington,SG,6-4,207,565142400000,US,10,UNC
-295,Taj Gibson,C,6-9,232,488419200000,US,10,USC
-296,Maurice Harkless,SF,6-7,220,737078400000,US,7,St. John's
-297,Kevin Knox,SF,6-7,215,934329600000,US,1,Kentucky
-298,Marcus Morris,SF,6-8,218,620697600000,US,8,Kansas
-299,Frank Ntilikina,PG,6-4,200,901584000000,BE,2,
-300,Elfrid Payton,PG,6-3,195,761875200000,US,5,Louisiana
-301,Bobby Portis,PF,6-10,250,792374400000,US,4,Arkansas
-302,Julius Randle,PF,6-8,250,786067200000,US,5,Kentucky
-303,Mitchell Robinson,C,7-0,240,891388800000,US,1,Western Kentucky
-304,Dennis Smith,PG,6-2,205,880416000000,US,2,NC State
-305,Allonzo Trier,SG,6-4,200,821836800000,US,1,Arizona
-306,Steven Adams,C,6-11,265,743126400000,NZ,6,Pitt
-307,Darius Bazley,PF,6-8,208,960768000000,US,R,
-308,Deonte Burton,SF,6-4,240,759974400000,US,1,"Marquette, Iowa State"
-309,Hamidou Diallo,SF,6-5,202,901843200000,US,1,Kentucky
-310,Luguentz Dort,SF,6-3,220,924480000000,CA,R,Arizona State
-311,Terrance Ferguson,SF,6-6,190,895363200000,US,2,
-312,Danilo Gallinari,PF,6-10,233,587001600000,IT,10,
-313,Shai Gilgeous-Alexander,SG,6-5,180,900201600000,CA,1,Kentucky
-314,Devon Hall,PG,6-2,215,805075200000,US,R,Virginia
-315,Kevin Hervey,PF,6-9,230,836870400000,US,R,UT Arlington
-316,Mike Muscala,C,6-10,240,678326400000,US,6,Bucknell
-317,Abdel Nader,SF,6-5,225,748915200000,EG,2,"Northern Illinois, Iowa State"
-318,Nerlens Noel,C,6-10,220,765936000000,US,5,Kentucky
-319,Justin Patton,C,6-11,241,866246400000,US,2,Creighton
-320,Chris Paul,PG,6-1,175,484185600000,US,14,Wake Forest
-321,Andre Roberson,SF,6-7,210,691804800000,US,5,Colorado
-322,Isaiah Roby,PF,6-8,230,886464000000,US,R,Nebraska
-323,Dennis SchrÃ¶der,SG,6-1,172,748051200000,DE,6,
-324,Al-Farouq Aminu,PF,6-8,220,653875200000,US,9,Wake Forest
-325,D.J. Augustin,PG,5-11,183,563500800000,US,11,Texas
-326,Mohamed Bamba,C,7-0,231,894931200000,US,1,Texas
-327,Khem Birch,C,6-9,233,717638400000,CA,2,"Pitt, UNLV"
-328,Michael Carter-Williams,SG,6-5,190,687052800000,US,6,Syracuse
-329,Gary Clark,SF,6-6,225,784944000000,US,1,Cincinnati
-330,Evan Fournier,SF,6-7,205,720316800000,FR,7,
-331,Melvin Frazier,SG,6-5,215,841363200000,US,1,Tulane
-332,Markelle Fultz,PG,6-3,209,896400000000,US,2,Washington
-333,Aaron Gordon,PF,6-8,235,811209600000,US,5,Arizona
-334,Jonathan Isaac,PF,6-11,230,875836800000,US,2,Florida State
-335,Wesley Iwundu,SF,6-6,195,787881600000,US,2,Kansas State
-336,Amile Jefferson,PF,6-9,222,736732800000,US,1,Duke
-337,B.J. Johnson,SF,6-7,200,819504000000,US,1,"Syracuse, La Salle"
-338,Vic Law,PF,6-7,200,819331200000,US,R,Northwestern
-339,Josh Magette,PG,6-1,160,628214400000,US,1,Alabama-Huntsville
-340,Terrence Ross,SG,6-6,206,665712000000,US,7,Washington
-341,Nikola VuÄeviÄ‡,C,6-11,260,656726400000,CH,8,USC
-342,Trey Burke,PG,6-0,185,721526400000,US,6,Michigan
-343,Alec Burks,SG,6-6,214,679968000000,US,8,Colorado
-344,Joel Embiid,C,7-0,280,763776000000,CM,3,Kansas
-345,James Ennis,SF,6-6,215,646790400000,US,5,Cal State Long Beach
-346,Tobias Harris,PF,6-8,226,711158400000,US,8,Tennessee
-347,Al Horford,C,6-9,240,518140800000,DO,12,Florida
-348,Furkan Korkmaz,SG,6-7,202,869702400000,TR,2,
-349,Shake Milton,SG,6-5,205,843696000000,US,1,SMU
-350,Raul Neto,PG,6-1,180,706233600000,BR,4,
-351,Kyle O'Quinn,C,6-9,250,638409600000,US,7,Norfolk State
-352,Norvel Pelle,C,6-10,231,728697600000,AG,R,
-353,Josh Richardson,SG,6-5,200,748051200000,US,4,Tennessee
-354,Glenn Robinson,SF,6-6,222,757987200000,US,5,Michigan
-355,Mike Scott,PF,6-7,237,585014400000,US,7,Virginia
-356,Marial Shayok,SG,6-5,198,806716800000,CA,R,"Virginia, Iowa State"
-357,Ben Simmons,PG,6-10,240,837820800000,AU,2,LSU
-358,Zhaire Smith,SF,6-3,205,928454400000,US,1,Texas Tech
-359,Matisse Thybulle,SG,6-5,201,857433600000,US,R,Washington
-360,Deandre Ayton,C,6-11,250,901152000000,BS,1,Arizona
-361,Aron Baynes,C,6-10,260,534470400000,NZ,7,Washington State
-362,Jonah Bolden,C,6-8,220,820540800000,AU,1,UCLA
-363,Devin Booker,SG,6-5,206,846633600000,US,4,Kentucky
-364,Mikal Bridges,SF,6-6,209,841363200000,US,1,Villanova
-365,Jevon Carter,PG,6-1,200,811036800000,US,1,West Virginia
-366,Cheick Diallo,C,6-8,219,842572800000,ML,3,Kansas
-367,Jared Harper,PG,5-11,175,874195200000,US,R,Auburn
-368,Ty Jerome,SG,6-5,195,868320000000,US,R,Virginia
-369,Cameron Johnson,PF,6-8,210,825811200000,US,R,"Pitt, UNC"
-370,Tyler Johnson,PG,6-3,186,705196800000,US,5,Fresno State
-371,Frank Kaminsky,C,7-0,240,733881600000,US,4,Wisconsin
-372,Jalen Lecque,SG,6-3,185,960854400000,US,R,
-373,Elie Okobo,PG,6-3,190,877564800000,FR,1,
-374,Kelly Oubre,SF,6-7,203,818467200000,US,4,Kansas
-375,Tariq Owens,PF,6-10,205,804470400000,US,R,"Tennessee, St. John's, Texas Tech"
-376,Cameron Payne,SG,6-3,190,776304000000,US,4,Murray State
-377,Ricky Rubio,PG,6-3,190,656467200000,ES,8,
-378,Dario Å ariÄ‡,PF,6-10,225,765763200000,HR,3,
-379,Jaylen Adams,PG,6-2,190,831168000000,US,1,St. Bonaventure
-380,Carmelo Anthony,PF,6-8,238,454636800000,US,16,Syracuse
-381,Moses Brown,C,7-2,245,939772800000,US,R,UCLA
-382,Zach Collins,PF,6-11,250,879897600000,US,2,Gonzaga
-383,Mario Hezonja,PF,6-8,220,793670400000,HR,4,
-384,Jaylen Hoard,PF,6-8,216,922752000000,FR,R,Wake Forest
-385,Rodney Hood,SF,6-8,208,719539200000,US,5,"Mississippi State, Duke"
-386,Skal LabissiÃ¨re,C,6-10,235,827107200000,HT,3,Kentucky
-387,Damian Lillard,PG,6-2,195,648000000000,US,7,Weber State
-388,Nassir Little,PF,6-5,220,950227200000,US,R,UNC
-389,CJ McCollum,SG,6-3,190,685238400000,US,6,Lehigh
-390,Jusuf NurkiÄ‡,C,7-0,290,777600000000,BA,5,
-391,Anfernee Simons,SG,6-3,181,928800000000,US,1,
-392,Gary Trent,SF,6-5,209,916617600000,US,1,Duke
-393,Hassan Whiteside,C,7-0,265,613699200000,US,7,Marshall
-394,Trevor Ariza,SF,6-8,215,488937600000,US,15,UCLA
-395,Marvin Bagley,C,6-11,235,921369600000,US,1,Duke
-396,Harrison Barnes,PF,6-8,225,707184000000,US,7,UNC
-397,Kent Bazemore,SF,6-4,195,615254400000,US,7,Old Dominion
-398,Nemanja Bjelica,PF,6-10,234,579139200000,RS,4,
-399,Bogdan BogdanoviÄ‡,SG,6-6,220,714096000000,RS,2,
-400,Corey Brewer,PF,6-9,186,510364800000,US,12,Florida
-401,Dewayne Dedmon,C,7-0,245,618883200000,US,6,USC
-402,Yogi Ferrell,PG,6-0,178,736905600000,US,3,Indiana
-403,De'Aaron Fox,PG,6-3,185,882576000000,US,2,Kentucky
-404,Wenyen Gabriel,PF,6-9,200,859334400000,SD,R,Kentucky
-405,Harry Giles,C,6-11,240,893203200000,US,1,Duke
-406,Kyle Guy,SG,6-1,167,871257600000,US,R,Virginia
-407,Buddy Hield,SG,6-4,220,724550400000,BS,3,Oklahoma
-408,Richaun Holmes,C,6-10,235,750643200000,US,4,Bowling Green
-409,Justin James,SF,6-7,190,854064000000,US,R,Wyoming
-410,DaQuan Jeffries,SG,6-5,230,872899200000,US,R,"Oral Roberts, Tulsa"
-411,Cory Joseph,PG,6-3,200,682646400000,CA,8,Texas
-412,Alex Len,C,7-0,250,740188800000,UA,6,Maryland
-413,Eric Mika,C,6-10,230,789264000000,US,R,BYU
-414,Jabari Parker,PF,6-8,245,795225600000,US,5,Duke
-415,Caleb Swanigan,C,6-9,260,861321600000,US,2,Purdue
-416,Anthony Tolliver,PF,6-8,240,486432000000,US,11,Creighton
-417,LaMarcus Aldridge,C,6-11,250,490579200000,US,13,Texas
-418,Marco Belinelli,SG,6-5,220,512092800000,IT,12,
-419,DeMarre Carroll,SF,6-6,215,522806400000,US,10,"Vanderbilt, Missouri"
-420,DeMar DeRozan,SF,6-6,220,618451200000,US,10,USC
-421,Drew Eubanks,C,6-9,245,854755200000,US,1,Oregon State
-422,Bryn Forbes,SG,6-2,205,743385600000,US,3,Michigan State
-423,Rudy Gay,PF,6-8,250,524620800000,US,13,UConn
-424,Keldon Johnson,SF,6-5,220,939600000000,US,R,Kentucky
-425,Trey Lyles,PF,6-9,234,815529600000,CA,4,Kentucky
-426,Chimezie Metu,C,6-9,225,858988800000,US,1,USC
-427,Patty Mills,PG,6-1,180,587260800000,AU,10,Saint Mary's
-428,Dejounte Murray,PG,6-4,180,843091200000,US,2,Washington
-429,Jakob Poeltl,C,7-1,245,813715200000,AT,3,Utah
-430,Luka Å amaniÄ‡,PF,6-10,227,947376000000,HR,R,
-431,Lonnie Walker,SG,6-5,204,913593600000,US,1,Miami (FL)
-432,Quinndary Weatherspoon,SG,6-3,205,842313600000,US,R,Mississippi State
-433,Derrick White,SG,6-4,190,773107200000,US,2,"Colorado-Colorado Springs, Colorado"
-434,Tyler Zeller,C,7-0,253,632534400000,US,7,UNC
-435,OG Anunoby,SF,6-7,232,869097600000,GB,2,Indiana
-436,Chris Boucher,C,6-9,200,726710400000,LC,2,Oregon
-437,Oshae Brissett,SF,6-7,210,898300800000,CA,R,Syracuse
-438,Terence Davis,SG,6-4,201,863740800000,US,R,Ole Miss
-439,Marc Gasol,C,6-11,255,475804800000,ES,11,
-440,Dewan Hernandez,C,6-10,235,850089600000,US,R,Miami (FL)
-441,Rondae Hollis-Jefferson,PF,6-6,217,789091200000,US,4,Arizona
-442,Serge Ibaka,C,7-0,235,622080000000,CG,10,
-443,Stanley Johnson,PF,6-6,242,833328000000,US,4,Arizona
-444,Kyle Lowry,PG,6-0,196,512092800000,US,13,Villanova
-445,Patrick McCaw,SF,6-7,181,814579200000,US,3,UNLV
-446,Malcolm Miller,SF,6-7,210,731376000000,US,2,Holy Cross
-447,Shamorie Ponds,PG,6-0,180,899078400000,US,R,St. John's
-448,Norman Powell,SG,6-3,215,738288000000,US,4,UCLA
-449,Pascal Siakam,PF,6-9,230,765244800000,CM,3,New Mexico State
-450,Matt Thomas,SG,6-4,190,775958400000,US,R,Iowa State
-451,Fred VanVleet,SG,6-1,197,762134400000,US,3,Wichita State
-452,Paul Watson,SF,6-7,215,788745600000,US,R,Fresno State
-453,Bojan BogdanoviÄ‡,SF,6-8,226,608860800000,BA,5,
-454,Tony Bradley,C,6-10,248,884217600000,US,2,UNC
-455,Jarrell Brantley,PF,6-5,250,834105600000,US,R,College of Charleston
-456,Jordan Clarkson,SG,6-4,194,707875200000,US,5,"Tulsa, Missouri"
-457,Mike Conley,PG,6-1,175,560908800000,US,12,Ohio State
-458,Ed Davis,C,6-9,218,613008000000,US,9,UNC
-459,Dante Exum,SG,6-5,214,805593600000,AU,4,
-460,Rudy Gobert,C,7-1,258,709516800000,FR,6,
-461,Jeff Green,PF,6-8,235,525571200000,US,11,Georgetown
-462,Joe Ingles,PF,6-7,220,560131200000,AU,5,
-463,Stanton Kidd,SG,6-6,215,700876800000,US,R,"South Plains College, NC Central, Colorado State"
-464,Donovan Mitchell,SG,6-1,215,842054400000,US,2,Louisville
-465,Juwan Morgan,PF,6-8,232,861235200000,US,R,Indiana
-466,Emmanuel Mudiay,PG,6-3,200,825984000000,CD,4,
-467,Georges Niang,PF,6-7,230,740275200000,US,3,Iowa State
-468,Royce O'Neale,SF,6-4,226,739238400000,US,2,"Denver, Baylor"
-469,Miye Oni,SF,6-5,206,870652800000,US,R,Yale
-470,Rayjon Tucker,SG,6-5,210,875059200000,US,R,
-471,Nigel Williams-Goss,PG,6-2,190,779673600000,US,R,"Gonzaga, Washington"
-472,Justin Wright-Foreman,PG,6-0,190,877910400000,US,R,Hofstra
-473,Ryan Arcidiacono,PG,6-3,195,764640000000,US,2,Villanova
-474,Wendell Carter,C,6-9,270,924220800000,US,1,Duke
-475,Kris Dunn,PG,6-3,205,763948800000,US,3,Providence
-476,Cristiano FelÃ­cio,C,6-10,270,710467200000,BR,4,
-477,Daniel Gafford,C,6-10,234,907200000000,US,R,Arkansas
-478,Shaquille Harrison,SG,6-7,190,749865600000,US,2,Tulsa
-479,Chandler Hutchison,SF,6-7,210,830476800000,US,1,Boise State
-480,Luke Kornet,C,7-2,250,805766400000,US,2,Vanderbilt
-481,Zach LaVine,SG,6-6,200,794793600000,US,5,UCLA
-482,Lauri Markkanen,PF,7-0,240,864259200000,FI,2,Arizona
-483,Adam Mokoka,SF,6-5,190,900720000000,FR,R,
-484,Otto Porter,SF,6-8,198,739065600000,US,6,Georgetown
-485,TomÃ¡Å¡ SatoranskÃ½,SG,6-7,210,688780800000,CZ,3,
-486,Max Strus,SF,6-6,215,827971200000,US,R,"Lewis (IL), DePaul"
-487,Denzel Valentine,SF,6-4,220,753408000000,US,2,Michigan State
-488,Coby White,PG,6-4,195,950659200000,US,R,UNC
-489,Thaddeus Young,PF,6-8,235,582854400000,US,12,Georgia Tech
-490,Goga Bitadze,C,6-11,250,932428800000,GE,R,
-491,Brian Bowen,SF,6-6,190,907286400000,US,R,
-492,Malcolm Brogdon,PG,6-5,229,724032000000,US,3,Virginia
-493,Aaron Holiday,PG,6-0,185,844041600000,US,1,UCLA
-494,Justin Holiday,SF,6-6,180,607737600000,US,6,Washington
-495,Alize Johnson,PF,6-7,212,830131200000,US,1,Missouri State
-496,Jeremy Lamb,SG,6-5,180,707184000000,US,7,UConn
-497,T.J. Leaf,PF,6-10,222,862358400000,IL,2,UCLA
-498,T.J. McConnell,PG,6-1,190,701481600000,US,4,"Duquesne, Arizona"
-499,Doug McDermott,PF,6-7,225,694396800000,US,5,Creighton
-500,Naz Mitrou-Long,SG,6-3,218,744336000000,CA,2,Iowa State
-501,Victor Oladipo,SG,6-4,213,704937600000,US,6,Indiana
-502,Domantas Sabonis,PF,6-11,240,831081600000,US,3,Gonzaga
-503,JaKarr Sampson,PF,6-7,214,732585600000,US,4,St. John's
-504,Edmond Sumner,SG,6-4,196,820368000000,US,2,Xavier
-505,Myles Turner,C,6-11,250,827625600000,US,4,Texas
-506,T.J. Warren,SF,6-8,220,747187200000,US,5,NC State
-507,Bradley Beal,SG,6-3,207,741225600000,US,7,Florida
-508,DÄvis BertÄns,PF,6-10,225,721526400000,LV,3,
-509,Isaac Bonga,SF,6-8,180,942019200000,DE,1,
-510,Troy Brown,SF,6-6,215,933120000000,US,1,Oregon
-511,Thomas Bryant,C,6-10,248,870307200000,US,2,Indiana
-512,Chris Chiozza,PG,5-11,175,816912000000,US,1,Florida
-513,Jerian Grant,SG,6-4,205,718588800000,US,4,Notre Dame
-514,Rui Hachimura,PF,6-8,230,886896000000,JP,R,Gonzaga
-515,Ian Mahinmi,C,6-11,262,531532800000,FR,11,
-516,Garrison Mathews,SG,6-5,215,846115200000,US,R,Lipscomb
-517,Jordan McRae,SG,6-5,179,670118400000,US,3,Tennessee
-518,C.J. Miles,SF,6-6,220,543024000000,US,14,
-519,Shabazz Napier,PG,6-0,175,679449600000,US,5,UConn
-520,AnÅ¾ejs PaseÄÅ†iks,C,7-1,229,819417600000,LV,R,
-521,Gary Payton,SF,6-3,190,723168000000,US,3,Oregon State
-522,Jerome Robinson,SG,6-4,190,856569600000,US,1,Boston College
-523,Justin Robinson,PG,6-1,195,876614400000,US,R,Virginia Tech
-524,Admiral Schofield,PF,6-5,241,859680000000,GB,R,Tennessee
-525,Ish Smith,PG,6-0,175,584064000000,US,9,Wake Forest
-526,Isaiah Thomas,PG,5-9,185,602812800000,US,8,Washington
-527,Jarrod Uthoff,PF,6-9,221,737769600000,US,1,Iowa
-528,Moritz Wagner,C,6-11,245,862012800000,DE,1,Michigan
-529,Johnathan Williams,PF,6-9,228,801100800000,US,1,"Missouri, Gonzaga"
+0,DeAndre' Bembry,SG,6-5,210,1994-07-04,US,3,Saint Joseph's
+1,Charlie Brown,SG,6-6,199,1997-02-02,US,R,Saint Joseph's
+2,Vince Carter,PF,6-6,220,1977-01-26,US,21,UNC
+3,John Collins,PF,6-9,235,1997-09-23,US,2,Wake Forest
+4,Allen Crabbe,SG,6-5,212,1992-04-09,US,6,California
+5,Dewayne Dedmon,C,7-0,245,1989-08-12,US,6,USC
+6,Bruno Fernando,C,6-9,240,1998-08-15,AO,R,Maryland
+7,Brandon Goodwin,PG,6-0,180,1995-10-02,US,1,"Central Florida, Florida Gulf Coast"
+8,Treveon Graham,SF,6-5,219,1993-10-28,US,3,VCU
+9,Kevin Huerter,SG,6-7,190,1998-08-27,US,1,Maryland
+10,De'Andre Hunter,SF,6-7,225,1997-12-02,US,R,Virginia
+11,Damian Jones,C,6-11,245,1995-06-30,US,3,Vanderbilt
+12,Alex Len,C,7-0,250,1993-06-16,UA,6,Maryland
+13,Jabari Parker,PF,6-8,245,1995-03-15,US,5,Duke
+14,Chandler Parsons,PF,6-9,230,1988-10-25,US,8,Florida
+15,Cam Reddish,SF,6-8,218,1999-09-01,US,R,Duke
+16,Jeff Teague,PG,6-3,195,1988-06-10,US,10,Wake Forest
+17,Evan Turner,SG,6-6,220,1988-10-27,US,9,Ohio State
+18,Tyrone Wallace,SG,6-5,198,1994-06-10,US,2,California
+19,Paul Watson,SF,6-7,215,1994-12-30,US,R,Fresno State
+20,Trae Young,PG,6-1,180,1998-09-19,US,1,Oklahoma
+21,Giannis Antetokounmpo,PF,6-11,242,1994-12-06,GR,6,
+22,Thanasis Antetokounmpo,SF,6-6,219,1992-07-18,GR,1,
+23,Dragan Bender,C,7-0,225,1997-11-17,BA,3,
+24,Eric Bledsoe,PG,6-1,214,1989-12-09,US,9,Kentucky
+25,Sterling Brown,SF,6-5,219,1995-02-10,US,2,SMU
+26,Pat Connaughton,SG,6-5,209,1993-01-06,US,4,Notre Dame
+27,Donte DiVincenzo,SG,6-4,203,1997-01-31,US,1,Villanova
+28,George Hill,PG,6-3,188,1986-05-04,US,11,IUPUI
+29,Ersan Ä°lyasova,PF,6-9,235,1987-05-15,TR,11,
+30,Kyle Korver,SF,6-7,212,1981-03-17,US,16,Creighton
+31,Brook Lopez,C,7-0,282,1988-04-01,US,11,Stanford
+32,Robin Lopez,C,7-0,281,1988-04-01,US,11,Stanford
+33,Frank Mason,PG,5-11,190,1994-04-03,US,2,Kansas
+34,Wesley Matthews,SG,6-4,220,1986-10-14,US,10,Marquette
+35,Khris Middleton,SF,6-7,222,1991-08-12,US,7,Texas A&M
+36,Marvin Williams,PF,6-8,237,1986-06-19,US,14,UNC
+37,D.J. Wilson,PF,6-10,231,1996-02-19,US,2,Michigan
+38,Jaylen Brown,SG,6-6,223,1996-10-24,US,3,California
+39,Carsen Edwards,SG,5-11,200,1998-03-12,US,R,Purdue
+40,Tacko Fall,C,7-5,311,1995-12-10,SN,R,Central Florida
+41,Javonte Green,SG,6-4,205,1993-07-23,US,R,Radford
+42,Gordon Hayward,SF,6-7,225,1990-03-23,US,9,Butler
+43,Enes Kanter,C,6-10,250,1992-05-20,CH,8,
+44,Romeo Langford,SG,6-4,216,1999-10-25,US,R,Indiana
+45,Semi Ojeleye,PF,6-6,240,1994-12-05,US,2,"Duke, SMU"
+46,Vincent Poirier,C,7-0,235,1993-10-17,FR,R,
+47,Marcus Smart,SG,6-3,220,1994-03-06,US,5,Oklahoma State
+48,Jayson Tatum,PF,6-8,210,1998-03-03,US,2,Duke
+49,Daniel Theis,C,6-8,245,1992-04-04,DE,2,
+50,Kemba Walker,PG,6-0,184,1990-05-08,US,8,UConn
+51,Brad Wanamaker,PG,6-3,210,1989-07-25,US,1,Pitt
+52,Tremont Waters,PG,5-10,175,1998-01-10,US,R,LSU
+53,Grant Williams,PF,6-6,236,1998-11-30,US,R,Tennessee
+54,Robert Williams,C,6-8,237,1997-10-17,US,1,Texas A&M
+55,Jarrett Allen,C,6-11,243,1998-04-21,US,2,Texas
+56,Justin Anderson,SG,6-6,230,1993-11-19,US,4,Virginia
+57,Wilson Chandler,PF,6-8,235,1987-05-10,US,11,DePaul
+58,Chris Chiozza,PG,5-11,175,1995-11-21,US,1,Florida
+59,Nicolas Claxton,C,6-11,215,1999-04-17,US,R,Georgia
+60,Jamal Crawford,SG,6-5,185,1980-03-20,US,19,Michigan
+61,Spencer Dinwiddie,PG,6-5,215,1993-04-06,US,5,Colorado
+62,Henry Ellenson,C,6-10,240,1997-01-13,US,3,Marquette
+63,Donta Hall,C,6-9,232,1997-08-07,US,R,Alabama
+64,Joe Harris,SF,6-6,220,1991-09-06,US,5,Virginia
+65,Kyrie Irving,PG,6-2,195,1992-03-23,AU,8,Duke
+66,Tyler Johnson,SG,6-3,186,1992-05-07,US,5,Fresno State
+67,DeAndre Jordan,C,6-11,265,1988-07-21,US,11,Texas A&M
+68,Rodions Kurucs,PF,6-9,228,1998-02-05,LV,1,
+69,Caris LeVert,SG,6-6,205,1994-08-25,US,3,Michigan
+70,TimothÃ© Luwawu-Cabarrot,SF,6-7,220,1995-05-09,FR,3,
+71,Jeremiah Martin,PG,6-3,185,1996-06-19,US,R,Memphis
+72,DÅ¾anan Musa,SF,6-9,217,1999-05-08,BA,1,
+73,David Nwaba,SG,6-5,219,1993-01-14,US,3,Cal Poly
+74,Theo Pinson,SG,6-5,212,1995-11-05,US,1,UNC
+75,Taurean Prince,PF,6-7,218,1994-03-22,US,3,Baylor
+76,Iman Shumpert,SF,6-5,215,1990-06-26,US,8,Georgia Tech
+77,Garrett Temple,SG,6-5,195,1986-05-08,US,9,LSU
+78,Lance Thomas,PF,6-8,240,1988-04-24,US,8,Duke
+79,Ryan Arcidiacono,PG,6-3,195,1994-03-26,US,2,Villanova
+80,Wendell Carter,C,6-9,270,1999-04-16,US,1,Duke
+81,Kris Dunn,PG,6-3,205,1994-03-18,US,3,Providence
+82,Cristiano FelÃ­cio,C,6-10,270,1992-07-07,BR,4,
+83,Daniel Gafford,C,6-10,234,1998-10-01,US,R,Arkansas
+84,Shaquille Harrison,SG,6-7,190,1993-10-06,US,2,Tulsa
+85,Chandler Hutchison,SF,6-7,210,1996-04-26,US,1,Boise State
+86,Luke Kornet,C,7-2,250,1995-07-15,US,2,Vanderbilt
+87,Zach LaVine,SG,6-6,200,1995-03-10,US,5,UCLA
+88,Lauri Markkanen,PF,7-0,240,1997-05-22,FI,2,Arizona
+89,Adam Mokoka,SF,6-5,190,1998-07-18,FR,R,
+90,Otto Porter,SF,6-8,198,1993-06-03,US,6,Georgetown
+91,TomÃ¡Å¡ SatoranskÃ½,SG,6-7,210,1991-10-30,CZ,3,
+92,Max Strus,SF,6-6,215,1996-03-28,US,R,"Lewis (IL), DePaul"
+93,Denzel Valentine,SF,6-4,220,1993-11-16,US,2,Michigan State
+94,Coby White,PG,6-4,195,2000-02-16,US,R,UNC
+95,Thaddeus Young,PF,6-8,235,1988-06-21,US,12,Georgia Tech
+96,Dwayne Bacon,SG,6-6,221,1995-08-30,US,2,Florida State
+97,Nicolas Batum,SF,6-9,230,1988-12-14,FR,11,
+98,Bismack Biyombo,C,6-8,255,1992-08-28,CD,8,
+99,Miles Bridges,SF,6-6,225,1998-03-21,US,1,Michigan State
+100,Joe Chealey,PG,6-3,190,1995-11-01,US,1,College of Charleston
+101,Devonte' Graham,PG,6-1,195,1995-02-22,US,1,Kansas
+102,Willy HernangÃ³mez,C,6-11,250,1994-05-27,ES,3,
+103,Michael Kidd-Gilchrist,PF,6-6,232,1993-09-26,US,7,Kentucky
+104,Caleb Martin,SF,6-5,205,1995-09-28,US,R,"NC State, Nevada"
+105,Cody Martin,SF,6-5,205,1995-09-28,US,R,"NC State, Nevada"
+106,Jalen McDaniels,SF,6-10,205,1998-01-31,US,R,San Diego State
+107,Malik Monk,SG,6-3,200,1998-02-04,US,2,Kentucky
+108,Terry Rozier,PG,6-1,190,1994-03-17,US,4,Louisville
+109,P.J. Washington,PF,6-7,230,1998-08-23,US,R,Kentucky
+110,Marvin Williams,PF,6-8,237,1986-06-19,US,14,UNC
+111,Cody Zeller,C,7-0,240,1992-10-05,US,6,Indiana
+112,Marques Bolden,C,6-11,245,1998-04-17,US,R,Duke
+113,Jordan Clarkson,SG,6-4,194,1992-06-07,US,5,"Tulsa, Missouri"
+114,Tyler Cook,PF,6-8,255,1997-09-23,US,R,Iowa
+115,Matthew Dellavedova,PG,6-3,200,1990-09-08,AU,6,Saint Mary's
+116,Andre Drummond,C,6-10,279,1993-08-10,US,7,UConn
+117,Dante Exum,SG,6-5,214,1995-07-13,AU,4,
+118,Darius Garland,SG,6-1,192,2000-01-26,US,R,Vanderbilt
+119,John Henson,C,6-9,219,1990-12-28,US,7,UNC
+120,Brandon Knight,SG,6-2,182,1991-12-02,US,7,Kentucky
+121,Kevin Love,PF,6-8,251,1988-09-07,US,11,UCLA
+122,J.P. Macura,SG,6-5,203,1995-06-05,US,1,Xavier
+123,Alfonzo McKinnie,SF,6-7,215,1992-09-17,US,2,Green Bay
+124,Matt Mooney,SG,6-3,199,1997-02-07,US,R,"Air Force, South Dakota, Texas Tech"
+125,Larry Nance,PF,6-7,245,1993-01-01,US,4,Wyoming
+126,Malik Newman,SG,6-3,190,1997-02-21,US,R,"Mississippi State, Kansas"
+127,Cedi Osman,SF,6-7,230,1995-04-08,MK,2,
+128,Kevin Porter,SF,6-4,203,2000-05-04,US,R,USC
+129,Collin Sexton,PG,6-1,190,1999-01-04,US,1,Alabama
+130,Tristan Thompson,PF,6-9,254,1991-03-13,CA,8,Texas
+131,Dean Wade,PF,6-9,228,1996-11-20,US,R,Kansas State
+132,Ante Å½iÅ¾iÄ‡,C,6-10,266,1997-01-04,HR,2,
+133,J.J. Barea,PG,5-10,180,1984-06-26,PR,13,Northeastern University
+134,Ryan Broekhoff,SF,6-6,215,1990-08-23,AU,1,Valparaiso
+135,Jalen Brunson,PG,6-1,190,1996-08-31,US,1,Villanova
+136,Trey Burke,PG,6-0,185,1992-11-12,US,6,Michigan
+137,Willie Cauley-Stein,C,7-0,240,1993-08-18,US,4,Kentucky
+138,Antonius Cleveland,SG,6-5,195,1994-02-02,US,1,SE Missouri State
+139,Seth Curry,SG,6-2,185,1990-08-23,US,5,"Liberty, Duke"
+140,Luka DonÄiÄ‡,PG,6-7,230,1999-02-28,SI,1,
+141,Dorian Finney-Smith,PF,6-7,220,1993-05-04,US,3,Florida
+142,Tim Hardaway,SG,6-5,205,1992-03-16,US,6,Michigan
+143,Justin Jackson,PF,6-7,220,1995-03-28,US,2,UNC
+144,Michael Kidd-Gilchrist,PF,6-6,232,1993-09-26,US,7,Kentucky
+145,Maxi Kleber,PF,6-10,240,1992-01-29,DE,2,
+146,Courtney Lee,SG,6-5,215,1985-10-03,US,11,Western Kentucky
+147,Boban MarjanoviÄ‡,C,7-4,290,1988-08-15,RS,4,
+148,Kristaps PorziÅ†Ä£is,C,7-3,240,1995-08-02,LV,3,
+149,Dwight Powell,C,6-10,240,1991-07-20,CA,5,Stanford
+150,Josh Reaves,SF,6-4,214,1997-06-04,US,R,Penn State
+151,Delon Wright,PG,6-5,185,1992-04-26,US,4,Utah
+152,Will Barton,SF,6-5,181,1991-01-06,US,7,Memphis
+153,Keita Bates-Diop,SF,6-8,229,1996-01-23,US,1,Ohio State
+154,Malik Beasley,SG,6-4,187,1996-11-26,US,3,Florida State
+155,Bol Bol,PF,7-2,220,1999-11-16,SD,R,Oregon
+156,Vlatko ÄŒanÄar,PF,6-8,236,1997-04-10,SI,R,
+157,Tyler Cook,SF,6-8,255,1997-09-23,US,R,Iowa
+158,Torrey Craig,SF,6-7,221,1990-12-19,US,2,USC Upstate
+159,Troy Daniels,SG,6-4,200,1991-07-15,US,6,VCU
+160,PJ Dozier,SG,6-6,205,1996-10-25,US,2,South Carolina
+161,Jerami Grant,PF,6-8,210,1994-03-12,US,5,Syracuse
+162,Gary Harris,SG,6-4,210,1994-09-14,US,5,Michigan State
+163,Juan HernangÃ³mez,PF,6-9,214,1995-09-28,ES,3,
+164,Nikola JokiÄ‡,C,7-0,284,1995-02-19,RS,4,
+165,Jordan McRae,SG,6-5,179,1991-03-28,US,3,Tennessee
+166,Paul Millsap,PF,6-7,257,1985-02-10,US,13,Louisiana Tech
+167,Monte Morris,PG,6-2,183,1995-06-27,US,2,Iowa State
+168,Jamal Murray,PG,6-4,215,1997-02-23,CA,3,Kentucky
+169,Mason Plumlee,C,6-11,254,1990-03-05,US,6,Duke
+170,Michael Porter,SF,6-10,218,1998-06-29,US,R,Missouri
+171,Jarred Vanderbilt,PF,6-9,214,1999-04-03,US,1,Kentucky
+172,Noah Vonleh,C,6-10,257,1995-08-24,US,5,Indiana
+173,Jordan Bone,PG,6-3,180,1997-11-05,US,R,Tennessee
+174,Bruce Brown,PG,6-4,202,1996-08-15,US,1,Miami (FL)
+175,Sekou Doumbouya,PF,6-8,230,2000-12-23,GN,R,
+176,Andre Drummond,C,6-10,279,1993-08-10,US,7,UConn
+177,Tim Frazier,PG,6-0,170,1990-11-01,US,5,Penn State
+178,Langston Galloway,SG,6-1,200,1991-12-09,US,5,Saint Joseph's
+179,Blake Griffin,PF,6-9,250,1989-03-16,US,9,Oklahoma
+180,Donta Hall,PF,6-9,232,1997-08-07,US,R,Alabama
+181,John Henson,C,6-9,219,1990-12-28,US,7,UNC
+182,Reggie Jackson,PG,6-3,208,1990-04-16,IT,8,Boston College
+183,Luke Kennard,SG,6-5,206,1996-06-24,US,2,Duke
+184,Louis King,SF,6-7,205,1999-04-06,US,R,Oregon
+185,Brandon Knight,PG,6-2,182,1991-12-02,US,7,Kentucky
+186,Thon Maker,C,7-0,221,1997-02-25,SS,3,
+187,Jordan McRae,SG,6-5,179,1991-03-28,US,3,Tennessee
+188,Markieff Morris,PF,6-8,245,1989-09-02,US,8,Kansas
+189,Sviatoslav Mykhailiuk,SF,6-7,205,1997-06-10,UA,1,Kansas
+190,Derrick Rose,PG,6-2,200,1988-10-04,US,10,Memphis
+191,Tony Snell,SF,6-6,213,1991-11-10,US,6,New Mexico
+192,Khyri Thomas,SG,6-3,210,1996-05-08,US,1,Creighton
+193,Derrick Walton,PG,6-0,189,1995-04-03,US,1,Michigan
+194,Christian Wood,PF,6-10,214,1995-09-27,US,3,UNLV
+195,Dragan Bender,PF,7-0,225,1997-11-17,BA,3,
+196,Ky Bowman,PG,6-1,187,1997-06-16,US,R,Boston College
+197,Alec Burks,SF,6-6,214,1991-07-20,US,8,Colorado
+198,Willie Cauley-Stein,C,7-0,240,1993-08-18,US,4,Kentucky
+199,Marquese Chriss,PF,6-9,240,1997-07-02,US,3,Washington
+200,Stephen Curry,PG,6-3,185,1988-03-14,US,10,Davidson
+201,Jacob Evans,SG,6-4,210,1997-06-18,US,1,Cincinnati
+202,Draymond Green,PF,6-6,230,1990-03-04,US,7,Michigan State
+203,Damion Lee,SG,6-5,210,1992-10-21,US,2,"Drexel, Louisville"
+204,Kevon Looney,C,6-9,222,1996-02-06,US,4,UCLA
+205,Mychal Mulder,SF,6-4,184,1994-06-12,CA,R,"Vincennes, Kentucky"
+206,Zach Norvell,SG,6-5,206,1997-12-09,US,R,Gonzaga
+207,Jeremy Pargo,PG,6-2,219,1986-03-17,US,2,Gonzaga
+208,Eric Paschall,PF,6-6,255,1996-11-04,US,R,"Fordham, Villanova"
+209,Jordan Poole,SG,6-4,194,1999-06-19,US,R,Michigan
+210,Chasson Randle,PG,6-2,185,1993-02-05,US,2,Stanford
+211,Glenn Robinson,SF,6-6,222,1994-01-08,US,5,Michigan
+212,D'Angelo Russell,PG,6-4,193,1996-02-23,US,4,Ohio State
+213,Alen SmailagiÄ‡,C,6-10,215,2000-08-18,RS,R,
+214,Omari Spellman,C,6-8,245,1997-07-21,US,1,Villanova
+215,Juan Toscano-Anderson,SG,6-6,209,1993-04-10,US,R,Marquette
+216,Andrew Wiggins,SF,6-7,197,1995-02-23,CA,5,Kansas
+217,Jonah Bolden,C,6-8,220,1996-01-02,AU,1,UCLA
+218,Trey Burke,PG,6-0,185,1992-11-12,US,6,Michigan
+219,Alec Burks,SG,6-6,214,1991-07-20,US,8,Colorado
+220,Joel Embiid,C,7-0,280,1994-03-16,CM,3,Kansas
+221,James Ennis,SF,6-6,215,1990-07-01,US,5,Cal State Long Beach
+222,Tobias Harris,PF,6-8,226,1992-07-15,US,8,Tennessee
+223,Al Horford,C,6-9,240,1986-06-03,DO,12,Florida
+224,Furkan Korkmaz,SG,6-7,202,1997-07-24,TR,2,
+225,Shake Milton,SG,6-5,205,1996-09-26,US,1,SMU
+226,Raul Neto,PG,6-1,180,1992-05-19,BR,4,
+227,Kyle O'Quinn,C,6-9,250,1990-03-26,US,7,Norfolk State
+228,Norvel Pelle,C,6-10,231,1993-02-03,AG,R,
+229,Josh Richardson,SG,6-5,200,1993-09-15,US,4,Tennessee
+230,Glenn Robinson,SF,6-6,222,1994-01-08,US,5,Michigan
+231,Mike Scott,PF,6-7,237,1988-07-16,US,7,Virginia
+232,Marial Shayok,SG,6-5,198,1995-07-26,CA,R,"Virginia, Iowa State"
+233,Ben Simmons,PG,6-10,240,1996-07-20,AU,2,LSU
+234,Zhaire Smith,SF,6-3,205,1999-06-04,US,1,Texas Tech
+235,Matisse Thybulle,SG,6-5,201,1997-03-04,US,R,Washington
+236,Ryan Anderson,C,6-9,240,1988-05-06,US,11,California
+237,Bruno Caboclo,C,6-9,218,1995-09-21,BR,5,
+238,Clint Capela,C,6-10,240,1994-05-18,CH,5,
+239,DeMarre Carroll,C,6-6,215,1986-07-27,US,10,"Vanderbilt, Missouri"
+240,Tyson Chandler,C,7-0,235,1982-10-02,US,18,
+241,Gary Clark,PF,6-6,225,1994-11-16,US,1,Cincinnati
+242,Chris Clemons,SG,5-9,180,1997-07-23,US,R,Campbell
+243,Robert Covington,C,6-7,209,1990-12-14,US,6,Tennessee State
+244,Michael Frazier,SG,6-3,200,1994-03-08,US,R,Florida
+245,Eric Gordon,SF,6-3,215,1988-12-25,US,11,Indiana
+246,Jeff Green,C,6-8,235,1986-08-28,US,11,Georgetown
+247,James Harden,SG,6-5,220,1989-08-26,US,10,Arizona State
+248,Isaiah Hartenstein,C,7-0,249,1998-05-05,US,1,
+249,Danuel House,SF,6-6,220,1993-06-07,US,3,Texas A&M
+250,William Howard,PF,6-8,207,1993-10-25,FR,R,
+251,Luc Mbah a Moute,PF,6-8,230,1986-09-09,CM,11,UCLA
+252,Ben McLemore,SF,6-3,195,1993-02-11,US,6,Kansas
+253,Austin Rivers,SG,6-3,200,1992-08-01,US,7,Duke
+254,Thabo Sefolosha,PF,6-6,215,1984-05-02,CH,13,
+255,P.J. Tucker,PF,6-5,245,1985-05-05,US,8,Texas
+256,Russell Westbrook,PG,6-3,200,1988-11-12,US,11,UCLA
+257,Goga Bitadze,C,6-11,250,1999-07-20,GE,R,
+258,Brian Bowen,SF,6-6,190,1998-10-02,US,R,
+259,Malcolm Brogdon,PG,6-5,229,1992-12-11,US,3,Virginia
+260,Aaron Holiday,PG,6-0,185,1996-09-30,US,1,UCLA
+261,Justin Holiday,SF,6-6,180,1989-04-05,US,6,Washington
+262,Alize Johnson,PF,6-7,212,1996-04-22,US,1,Missouri State
+263,Jeremy Lamb,SG,6-5,180,1992-05-30,US,7,UConn
+264,T.J. Leaf,PF,6-10,222,1997-04-30,IL,2,UCLA
+265,T.J. McConnell,PG,6-1,190,1992-03-25,US,4,"Duquesne, Arizona"
+266,Doug McDermott,PF,6-7,225,1992-01-03,US,5,Creighton
+267,Naz Mitrou-Long,SG,6-3,218,1993-08-03,CA,2,Iowa State
+268,Victor Oladipo,SG,6-4,213,1992-05-04,US,6,Indiana
+269,Domantas Sabonis,PF,6-11,240,1996-05-03,US,3,Gonzaga
+270,JaKarr Sampson,PF,6-7,214,1993-03-20,US,4,St. John's
+271,Edmond Sumner,SG,6-4,196,1995-12-31,US,2,Xavier
+272,Myles Turner,C,6-11,250,1996-03-24,US,4,Texas
+273,T.J. Warren,SF,6-8,220,1993-09-05,US,5,NC State
+274,Patrick Beverley,PG,6-1,180,1988-07-12,US,7,Arkansas
+275,Amir Coffey,SG,6-7,210,1997-06-17,US,R,Minnesota
+276,Paul George,SG,6-8,220,1990-05-02,US,9,Fresno State
+277,JaMychal Green,PF,6-8,227,1990-06-21,US,5,Alabama
+278,Maurice Harkless,PF,6-7,220,1993-05-11,US,7,St. John's
+279,Montrezl Harrell,C,6-7,240,1994-01-26,US,4,Louisville
+280,Reggie Jackson,SG,6-3,208,1990-04-16,IT,8,Boston College
+281,Mfiondu Kabengele,C,6-9,250,1997-08-14,CA,R,Florida State
+282,Kawhi Leonard,SF,6-7,225,1991-06-29,US,8,San Diego State
+283,Terance Mann,SF,6-5,215,1996-10-18,US,R,Florida State
+284,Rodney McGruder,SG,6-4,205,1991-07-29,US,3,Kansas State
+285,Marcus Morris,PF,6-8,218,1989-09-02,US,8,Kansas
+286,Johnathan Motley,PF,6-8,230,1995-05-04,US,2,Baylor
+287,Joakim Noah,C,6-11,230,1985-02-25,US,12,Florida
+288,Patrick Patterson,PF,6-8,235,1989-03-14,US,9,Kentucky
+289,Jerome Robinson,SG,6-4,190,1997-02-22,US,1,Boston College
+290,Landry Shamet,SG,6-4,190,1997-03-13,US,1,Wichita State
+291,Derrick Walton,PG,6-0,189,1995-04-03,US,1,Michigan
+292,Lou Williams,PG,6-1,175,1986-10-27,US,14,
+293,Ivica Zubac,C,7-0,240,1997-03-18,BA,3,
+294,Kostas Antetokounmpo,PF,6-10,200,1997-11-20,GR,1,Dayton
+295,Avery Bradley,SG,6-3,180,1990-11-26,US,9,Texas
+296,Devontae Cacok,C,6-7,240,1996-10-08,US,R,UNC Wilmington
+297,Kentavious Caldwell-Pope,SG,6-5,204,1993-02-18,US,6,Georgia
+298,Alex Caruso,PG,6-5,186,1994-02-28,US,2,Texas A&M
+299,Quinn Cook,PG,6-1,180,1993-03-23,US,3,Duke
+300,Troy Daniels,SG,6-4,200,1991-07-15,US,6,VCU
+301,Anthony Davis,PF,6-10,253,1993-03-11,US,7,Kentucky
+302,Jared Dudley,PF,6-6,237,1985-07-10,US,12,Boston College
+303,Danny Green,SG,6-6,215,1987-06-22,US,10,UNC
+304,Talen Horton-Tucker,SG,6-4,234,2000-11-25,US,R,Iowa State
+305,Dwight Howard,C,6-10,265,1985-12-08,US,15,
+306,LeBron James,PG,6-9,250,1984-12-30,US,16,
+307,Kyle Kuzma,PF,6-8,221,1995-07-24,US,2,Utah
+308,JaVale McGee,C,7-0,270,1988-01-19,US,11,Nevada
+309,Markieff Morris,PF,6-8,245,1989-09-02,US,8,Kansas
+310,Zach Norvell,SG,6-5,206,1997-12-09,US,R,Gonzaga
+311,Rajon Rondo,PG,6-1,180,1986-02-22,US,13,Kentucky
+312,J.R. Smith,SG,6-6,225,1985-09-09,US,15,
+313,Dion Waiters,SG,6-3,215,1991-12-10,US,7,Syracuse
+314,Keita Bates-Diop,PF,6-8,229,1996-01-23,US,1,Ohio State
+315,Malik Beasley,SG,6-4,187,1996-11-26,US,3,Florida State
+316,Jordan Bell,C,6-8,216,1995-01-07,US,2,Oregon
+317,Robert Covington,PF,6-7,209,1990-12-14,US,6,Tennessee State
+318,Allen Crabbe,SF,6-5,212,1992-04-09,US,6,California
+319,Jarrett Culver,SG,6-6,195,1999-02-20,US,R,Texas Tech
+320,Gorgui Dieng,C,6-10,252,1990-01-18,SN,6,Louisville
+321,Jacob Evans,SG,6-4,210,1997-06-18,US,1,Cincinnati
+322,Treveon Graham,SF,6-5,219,1993-10-28,US,3,VCU
+323,Juan HernangÃ³mez,PF,6-9,214,1995-09-28,ES,3,
+324,James Johnson,C,6-7,240,1987-02-20,US,10,Wake Forest
+325,Jake Layman,SF,6-8,209,1994-03-07,US,3,Maryland
+326,Kelan Martin,SF,6-5,230,1995-08-03,US,R,Butler
+327,Jordan McLaughlin,PG,5-11,185,1996-04-09,US,R,USC
+328,Shabazz Napier,PG,6-0,175,1991-07-14,US,5,UConn
+329,Jaylen Nowell,SG,6-4,201,1999-07-09,US,R,Washington
+330,Josh Okogie,SG,6-4,213,1998-09-01,NG,1,Georgia Tech
+331,Naz Reid,C,6-9,264,1999-08-26,US,R,LSU
+332,D'Angelo Russell,PG,6-4,193,1996-02-23,US,4,Ohio State
+333,Jeff Teague,PG,6-3,195,1988-06-10,US,10,Wake Forest
+334,Karl-Anthony Towns,C,6-11,248,1995-11-15,US,4,Kentucky
+335,Jarred Vanderbilt,PF,6-9,214,1999-04-03,US,1,Kentucky
+336,Noah Vonleh,C,6-10,257,1995-08-24,US,5,Indiana
+337,Andrew Wiggins,SF,6-7,197,1995-02-23,CA,5,Kansas
+338,Grayson Allen,SG,6-4,198,1995-10-08,US,1,Duke
+339,Kyle Anderson,SF,6-9,230,1993-09-20,US,5,UCLA
+340,Jordan Bell,C,6-8,216,1995-01-07,US,2,Oregon
+341,Dillon Brooks,SG,6-7,225,1996-01-22,CA,2,Oregon
+342,Bruno Caboclo,C,6-9,218,1995-09-21,BR,5,
+343,Brandon Clarke,PF,6-8,215,1996-09-19,CA,R,"San Jose State, Gonzaga"
+344,Jae Crowder,SF,6-6,235,1990-07-06,US,7,Marquette
+345,Gorgui Dieng,C,6-10,252,1990-01-18,SN,6,Louisville
+346,Marko Guduric,SG,6-6,201,1995-03-08,RS,R,
+347,Dusty Hannahs,SG,6-3,210,1993-09-02,US,1,"Texas Tech, Arkansas"
+348,Solomon Hill,PF,6-6,226,1991-03-18,US,6,Arizona
+349,Jaren Jackson,C,6-11,242,1999-09-15,US,1,Michigan State
+350,Josh Jackson,SF,6-8,207,1997-02-10,US,2,Kansas
+351,Tyus Jones,PG,6-0,196,1996-05-10,US,4,Duke
+352,John Konchar,SG,6-5,210,1996-03-22,US,R,Purdue-Fort Wayne
+353,De'Anthony Melton,PG,6-2,200,1998-05-28,US,1,USC
+354,Ja Morant,PG,6-3,174,1999-08-10,US,R,Murray State
+355,Anthony Tolliver,PF,6-8,240,1985-06-01,US,11,Creighton
+356,Jarrod Uthoff,PF,6-9,221,1993-05-19,US,1,Iowa
+357,Jonas ValanÄiÅ«nas,C,6-11,265,1992-05-06,LT,7,
+358,Yuta Watanabe,SF,6-8,215,1994-10-13,JP,1,George Washington
+359,Bam Adebayo,PF,6-9,255,1997-07-18,US,2,Kentucky
+360,Kyle Alexander,C,6-11,220,1996-10-21,CA,R,Tennessee
+361,Jimmy Butler,SF,6-7,230,1989-09-14,US,8,Marquette
+362,Jae Crowder,PF,6-6,235,1990-07-06,US,7,Marquette
+363,Goran DragiÄ‡,PG,6-3,190,1986-05-06,SI,11,
+364,Udonis Haslem,C,6-8,235,1980-06-09,US,16,Florida
+365,Tyler Herro,SG,6-5,195,2000-01-20,US,R,Kentucky
+366,Solomon Hill,PF,6-6,226,1991-03-18,US,6,Arizona
+367,Andre Iguodala,SF,6-6,215,1984-01-28,US,15,Arizona
+368,James Johnson,PF,6-7,240,1987-02-20,US,10,Wake Forest
+369,Derrick Jones,SF,6-6,210,1997-02-15,US,3,UNLV
+370,Meyers Leonard,C,7-0,260,1992-02-27,US,7,Illinois
+371,Daryl Macon,PG,6-2,185,1995-11-29,US,1,Arkansas
+372,Kendrick Nunn,PG,6-2,190,1995-08-03,US,R,"Illinois, Oakland"
+373,KZ Okpala,PF,6-8,215,1999-04-28,US,R,Stanford
+374,Kelly Olynyk,C,6-11,240,1991-04-19,CA,6,Gonzaga
+375,Duncan Robinson,SG,6-7,215,1994-04-22,US,1,"Williams, Michigan"
+376,Chris Silva,PF,6-8,234,1996-09-19,GA,R,South Carolina
+377,Gabe Vincent,PG,6-3,200,1996-06-14,US,R,UC Santa Barbara
+378,Dion Waiters,SG,6-3,215,1991-12-10,US,7,Syracuse
+379,Justise Winslow,SG,6-6,222,1996-03-26,US,4,Duke
+380,Giannis Antetokounmpo,PF,6-11,242,1994-12-06,GR,6,
+381,Thanasis Antetokounmpo,SF,6-6,219,1992-07-18,GR,1,
+382,Dragan Bender,C,7-0,225,1997-11-17,BA,3,
+383,Eric Bledsoe,PG,6-1,214,1989-12-09,US,9,Kentucky
+384,Sterling Brown,SF,6-5,219,1995-02-10,US,2,SMU
+385,Pat Connaughton,SG,6-5,209,1993-01-06,US,4,Notre Dame
+386,Donte DiVincenzo,SG,6-4,203,1997-01-31,US,1,Villanova
+387,George Hill,PG,6-3,188,1986-05-04,US,11,IUPUI
+388,Ersan Ä°lyasova,PF,6-9,235,1987-05-15,TR,11,
+389,Kyle Korver,SF,6-7,212,1981-03-17,US,16,Creighton
+390,Brook Lopez,C,7-0,282,1988-04-01,US,11,Stanford
+391,Robin Lopez,C,7-0,281,1988-04-01,US,11,Stanford
+392,Frank Mason,PG,5-11,190,1994-04-03,US,2,Kansas
+393,Wesley Matthews,SG,6-4,220,1986-10-14,US,10,Marquette
+394,Khris Middleton,SF,6-7,222,1991-08-12,US,7,Texas A&M
+395,Marvin Williams,PF,6-8,237,1986-06-19,US,14,UNC
+396,D.J. Wilson,PF,6-10,231,1996-02-19,US,2,Michigan
+397,Keita Bates-Diop,PF,6-8,229,1996-01-23,US,1,Ohio State
+398,Malik Beasley,SG,6-4,187,1996-11-26,US,3,Florida State
+399,Jordan Bell,C,6-8,216,1995-01-07,US,2,Oregon
+400,Robert Covington,PF,6-7,209,1990-12-14,US,6,Tennessee State
+401,Allen Crabbe,SF,6-5,212,1992-04-09,US,6,California
+402,Jarrett Culver,SG,6-6,195,1999-02-20,US,R,Texas Tech
+403,Gorgui Dieng,C,6-10,252,1990-01-18,SN,6,Louisville
+404,Jacob Evans,SG,6-4,210,1997-06-18,US,1,Cincinnati
+405,Treveon Graham,SF,6-5,219,1993-10-28,US,3,VCU
+406,Juan HernangÃ³mez,PF,6-9,214,1995-09-28,ES,3,
+407,James Johnson,C,6-7,240,1987-02-20,US,10,Wake Forest
+408,Jake Layman,SF,6-8,209,1994-03-07,US,3,Maryland
+409,Kelan Martin,SF,6-5,230,1995-08-03,US,R,Butler
+410,Jordan McLaughlin,PG,5-11,185,1996-04-09,US,R,USC
+411,Shabazz Napier,PG,6-0,175,1991-07-14,US,5,UConn
+412,Jaylen Nowell,SG,6-4,201,1999-07-09,US,R,Washington
+413,Josh Okogie,SG,6-4,213,1998-09-01,NG,1,Georgia Tech
+414,Naz Reid,C,6-9,264,1999-08-26,US,R,LSU
+415,D'Angelo Russell,PG,6-4,193,1996-02-23,US,4,Ohio State
+416,Jeff Teague,PG,6-3,195,1988-06-10,US,10,Wake Forest
+417,Karl-Anthony Towns,C,6-11,248,1995-11-15,US,4,Kentucky
+418,Jarred Vanderbilt,PF,6-9,214,1999-04-03,US,1,Kentucky
+419,Noah Vonleh,C,6-10,257,1995-08-24,US,5,Indiana
+420,Andrew Wiggins,SF,6-7,197,1995-02-23,CA,5,Kansas
+421,Nickeil Alexander-Walker,SG,6-5,205,1998-09-02,CA,R,Virginia Tech
+422,Lonzo Ball,PG,6-6,190,1997-10-27,US,2,UCLA
+423,Zylan Cheatham,PF,6-5,220,1995-11-17,US,R,"San Diego State, Arizona State"
+424,Derrick Favors,C,6-9,265,1991-07-15,US,9,Georgia Tech
+425,Josh Gray,PG,6-0,180,1993-09-09,US,1,LSU
+426,Josh Hart,SF,6-5,215,1995-03-06,US,2,Villanova
+427,Jaxson Hayes,C,6-11,220,2000-05-23,US,R,Texas
+428,Jrue Holiday,SG,6-3,205,1990-06-12,US,10,UCLA
+429,Brandon Ingram,PF,6-7,190,1997-09-02,US,3,Duke
+430,Frank Jackson,PG,6-3,205,1998-05-04,US,1,Duke
+431,NicolÃ² Melli,C,6-9,236,1991-01-26,IT,R,
+432,E'Twaun Moore,SG,6-3,191,1989-02-25,US,8,Purdue
+433,Jahlil Okafor,C,6-10,270,1995-12-15,US,4,Duke
+434,J.J. Redick,SG,6-3,200,1984-06-24,US,13,Duke
+435,Sindarius Thornwell,SF,6-5,215,1994-11-15,US,2,South Carolina
+436,Kenrich Williams,PF,6-6,210,1994-12-02,US,1,TCU
+437,Zion Williamson,PF,6-6,284,2000-07-06,US,R,Duke
+438,Kadeem Allen,PG,6-1,200,1993-01-15,US,2,Arizona
+439,RJ Barrett,SG,6-6,214,2000-06-14,CA,R,Duke
+440,Ignas Brazdeikis,SF,6-6,221,1999-01-08,LT,R,Michigan
+441,Reggie Bullock,SG,6-6,205,1991-03-16,US,6,UNC
+442,Damyean Dotson,SG,6-5,210,1994-05-06,US,2,"Oregon, Houston"
+443,Wayne Ellington,SG,6-4,207,1987-11-29,US,10,UNC
+444,Taj Gibson,C,6-9,232,1985-06-24,US,10,USC
+445,Maurice Harkless,SF,6-7,220,1993-05-11,US,7,St. John's
+446,Kevin Knox,SF,6-7,215,1999-08-11,US,1,Kentucky
+447,Marcus Morris,SF,6-8,218,1989-09-02,US,8,Kansas
+448,Frank Ntilikina,PG,6-4,200,1998-07-28,BE,2,
+449,Elfrid Payton,PG,6-3,195,1994-02-22,US,5,Louisiana
+450,Bobby Portis,PF,6-10,250,1995-02-10,US,4,Arkansas
+451,Julius Randle,PF,6-8,250,1994-11-29,US,5,Kentucky
+452,Mitchell Robinson,C,7-0,240,1998-04-01,US,1,Western Kentucky
+453,Dennis Smith,PG,6-2,205,1997-11-25,US,2,NC State
+454,Allonzo Trier,SG,6-4,200,1996-01-17,US,1,Arizona
+455,Steven Adams,C,6-11,265,1993-07-20,NZ,6,Pitt
+456,Darius Bazley,PF,6-8,208,2000-06-12,US,R,
+457,Deonte Burton,SF,6-4,240,1994-01-31,US,1,"Marquette, Iowa State"
+458,Hamidou Diallo,SF,6-5,202,1998-07-31,US,1,Kentucky
+459,Luguentz Dort,SF,6-3,220,1999-04-19,CA,R,Arizona State
+460,Terrance Ferguson,SF,6-6,190,1998-05-17,US,2,
+461,Danilo Gallinari,PF,6-10,233,1988-08-08,IT,10,
+462,Shai Gilgeous-Alexander,SG,6-5,180,1998-07-12,CA,1,Kentucky
+463,Devon Hall,PG,6-2,215,1995-07-07,US,R,Virginia
+464,Kevin Hervey,PF,6-9,230,1996-07-09,US,R,UT Arlington
+465,Mike Muscala,C,6-10,240,1991-07-01,US,6,Bucknell
+466,Abdel Nader,SF,6-5,225,1993-09-25,EG,2,"Northern Illinois, Iowa State"
+467,Nerlens Noel,C,6-10,220,1994-04-10,US,5,Kentucky
+468,Justin Patton,C,6-11,241,1997-06-14,US,2,Creighton
+469,Chris Paul,PG,6-1,175,1985-05-06,US,14,Wake Forest
+470,Andre Roberson,SF,6-7,210,1991-12-04,US,5,Colorado
+471,Isaiah Roby,PF,6-8,230,1998-02-03,US,R,Nebraska
+472,Dennis SchrÃ¶der,SG,6-1,172,1993-09-15,DE,6,
+473,Al-Farouq Aminu,PF,6-8,220,1990-09-21,US,9,Wake Forest
+474,D.J. Augustin,PG,5-11,183,1987-11-10,US,11,Texas
+475,Mohamed Bamba,C,7-0,231,1998-05-12,US,1,Texas
+476,Khem Birch,C,6-9,233,1992-09-28,CA,2,"Pitt, UNLV"
+477,Michael Carter-Williams,SG,6-5,190,1991-10-10,US,6,Syracuse
+478,Gary Clark,SF,6-6,225,1994-11-16,US,1,Cincinnati
+479,James Ennis,SG,6-6,215,1990-07-01,US,5,Cal State Long Beach
+480,Evan Fournier,SF,6-7,205,1992-10-29,FR,7,
+481,Melvin Frazier,SG,6-5,215,1996-08-30,US,1,Tulane
+482,Markelle Fultz,PG,6-3,209,1998-05-29,US,2,Washington
+483,Aaron Gordon,PF,6-8,235,1995-09-16,US,5,Arizona
+484,Jonathan Isaac,PF,6-11,230,1997-10-03,US,2,Florida State
+485,Wesley Iwundu,SF,6-6,195,1994-12-20,US,2,Kansas State
+486,Amile Jefferson,PF,6-9,222,1993-05-07,US,1,Duke
+487,B.J. Johnson,SF,6-7,200,1995-12-21,US,1,"Syracuse, La Salle"
+488,Vic Law,PF,6-7,200,1995-12-19,US,R,Northwestern
+489,Josh Magette,PG,6-1,160,1989-11-28,US,1,Alabama-Huntsville
+490,Terrence Ross,SG,6-6,206,1991-02-05,US,7,Washington
+491,Nikola VuÄeviÄ‡,C,6-11,260,1990-10-24,CH,8,USC
+492,Jonah Bolden,C,6-8,220,1996-01-02,AU,1,UCLA
+493,Trey Burke,PG,6-0,185,1992-11-12,US,6,Michigan
+494,Alec Burks,SG,6-6,214,1991-07-20,US,8,Colorado
+495,Joel Embiid,C,7-0,280,1994-03-16,CM,3,Kansas
+496,James Ennis,SF,6-6,215,1990-07-01,US,5,Cal State Long Beach
+497,Tobias Harris,PF,6-8,226,1992-07-15,US,8,Tennessee
+498,Al Horford,C,6-9,240,1986-06-03,DO,12,Florida
+499,Furkan Korkmaz,SG,6-7,202,1997-07-24,TR,2,
+500,Shake Milton,SG,6-5,205,1996-09-26,US,1,SMU
+501,Raul Neto,PG,6-1,180,1992-05-19,BR,4,
+502,Kyle O'Quinn,C,6-9,250,1990-03-26,US,7,Norfolk State
+503,Norvel Pelle,C,6-10,231,1993-02-03,AG,R,
+504,Josh Richardson,SG,6-5,200,1993-09-15,US,4,Tennessee
+505,Glenn Robinson,SF,6-6,222,1994-01-08,US,5,Michigan
+506,Mike Scott,PF,6-7,237,1988-07-16,US,7,Virginia
+507,Marial Shayok,SG,6-5,198,1995-07-26,CA,R,"Virginia, Iowa State"
+508,Ben Simmons,PG,6-10,240,1996-07-20,AU,2,LSU
+509,Zhaire Smith,SF,6-3,205,1999-06-04,US,1,Texas Tech
+510,Matisse Thybulle,SG,6-5,201,1997-03-04,US,R,Washington
+511,Deandre Ayton,C,6-11,250,1998-07-23,BS,1,Arizona
+512,Aron Baynes,C,6-10,260,1986-12-09,NZ,7,Washington State
+513,Jonah Bolden,C,6-8,220,1996-01-02,AU,1,UCLA
+514,Devin Booker,SG,6-5,206,1996-10-30,US,4,Kentucky
+515,Mikal Bridges,SF,6-6,209,1996-08-30,US,1,Villanova
+516,Jevon Carter,PG,6-1,200,1995-09-14,US,1,West Virginia
+517,Cheick Diallo,C,6-8,219,1996-09-13,ML,3,Kansas
+518,Jared Harper,PG,5-11,175,1997-09-14,US,R,Auburn
+519,Ty Jerome,SG,6-5,195,1997-07-08,US,R,Virginia
+520,Cameron Johnson,PF,6-8,210,1996-03-03,US,R,"Pitt, UNC"
+521,Tyler Johnson,PG,6-3,186,1992-05-07,US,5,Fresno State
+522,Frank Kaminsky,C,7-0,240,1993-04-04,US,4,Wisconsin
+523,Jalen Lecque,SG,6-3,185,2000-06-13,US,R,
+524,Elie Okobo,PG,6-3,190,1997-10-23,FR,1,
+525,Kelly Oubre,SF,6-7,203,1995-12-09,US,4,Kansas
+526,Tariq Owens,PF,6-10,205,1995-06-30,US,R,"Tennessee, St. John's, Texas Tech"
+527,Cameron Payne,SG,6-3,190,1994-08-08,US,4,Murray State
+528,Ricky Rubio,PG,6-3,190,1990-10-21,ES,8,
+529,Dario Å ariÄ‡,PF,6-10,225,1994-04-08,HR,3,
+530,Jaylen Adams,PG,6-2,190,1996-05-04,US,1,St. Bonaventure
+531,Carmelo Anthony,PF,6-8,238,1984-05-29,US,16,Syracuse
+532,Trevor Ariza,SF,6-8,215,1985-06-30,US,15,UCLA
+533,Kent Bazemore,SF,6-4,195,1989-07-01,US,7,Old Dominion
+534,Moses Brown,C,7-2,245,1999-10-13,US,R,UCLA
+535,Zach Collins,PF,6-11,250,1997-11-19,US,2,Gonzaga
+536,Wenyen Gabriel,PF,6-9,200,1997-03-26,SD,R,Kentucky
+537,Mario Hezonja,PF,6-8,220,1995-02-25,HR,4,
+538,Jaylen Hoard,PF,6-8,216,1999-03-30,FR,R,Wake Forest
+539,Rodney Hood,SF,6-8,208,1992-10-20,US,5,"Mississippi State, Duke"
+540,Skal LabissiÃ¨re,C,6-10,235,1996-03-18,HT,3,Kentucky
+541,Damian Lillard,PG,6-2,195,1990-07-15,US,7,Weber State
+542,Nassir Little,PF,6-5,220,2000-02-11,US,R,UNC
+543,CJ McCollum,SG,6-3,190,1991-09-19,US,6,Lehigh
+544,Jusuf NurkiÄ‡,C,7-0,290,1994-08-23,BA,5,
+545,Anfernee Simons,SG,6-3,181,1999-06-08,US,1,
+546,Caleb Swanigan,PF,6-9,260,1997-04-18,US,2,Purdue
+547,Anthony Tolliver,PF,6-8,240,1985-06-01,US,11,Creighton
+548,Gary Trent,SF,6-5,209,1999-01-18,US,1,Duke
+549,Hassan Whiteside,C,7-0,265,1989-06-13,US,7,Marshall
+550,Trevor Ariza,SF,6-8,215,1985-06-30,US,15,UCLA
+551,Marvin Bagley,C,6-11,235,1999-03-14,US,1,Duke
+552,Harrison Barnes,PF,6-8,225,1992-05-30,US,7,UNC
+553,Kent Bazemore,SF,6-4,195,1989-07-01,US,7,Old Dominion
+554,Nemanja Bjelica,PF,6-10,234,1988-05-09,RS,4,
+555,Bogdan BogdanoviÄ‡,SG,6-6,220,1992-08-18,RS,2,
+556,Corey Brewer,PF,6-9,186,1986-03-05,US,12,Florida
+557,Dewayne Dedmon,C,7-0,245,1989-08-12,US,6,USC
+558,Yogi Ferrell,PG,6-0,178,1993-05-09,US,3,Indiana
+559,De'Aaron Fox,PG,6-3,185,1997-12-20,US,2,Kentucky
+560,Wenyen Gabriel,PF,6-9,200,1997-03-26,SD,R,Kentucky
+561,Harry Giles,C,6-11,240,1998-04-22,US,1,Duke
+562,Kyle Guy,SG,6-1,167,1997-08-11,US,R,Virginia
+563,Buddy Hield,SG,6-4,220,1992-12-17,BS,3,Oklahoma
+564,Richaun Holmes,C,6-10,235,1993-10-15,US,4,Bowling Green
+565,Justin James,SF,6-7,190,1997-01-24,US,R,Wyoming
+566,DaQuan Jeffries,SG,6-5,230,1997-08-30,US,R,"Oral Roberts, Tulsa"
+567,Cory Joseph,PG,6-3,200,1991-08-20,CA,8,Texas
+568,Alex Len,C,7-0,250,1993-06-16,UA,6,Maryland
+569,Eric Mika,C,6-10,230,1995-01-05,US,R,BYU
+570,Jabari Parker,PF,6-8,245,1995-03-15,US,5,Duke
+571,Caleb Swanigan,C,6-9,260,1997-04-18,US,2,Purdue
+572,Anthony Tolliver,PF,6-8,240,1985-06-01,US,11,Creighton
+573,LaMarcus Aldridge,C,6-11,250,1985-07-19,US,13,Texas
+574,Marco Belinelli,SG,6-5,220,1986-03-25,IT,12,
+575,DeMarre Carroll,SF,6-6,215,1986-07-27,US,10,"Vanderbilt, Missouri"
+576,DeMar DeRozan,SF,6-6,220,1989-08-07,US,10,USC
+577,Drew Eubanks,C,6-9,245,1997-02-01,US,1,Oregon State
+578,Bryn Forbes,SG,6-2,205,1993-07-23,US,3,Michigan State
+579,Rudy Gay,PF,6-8,250,1986-08-17,US,13,UConn
+580,Keldon Johnson,SF,6-5,220,1999-10-11,US,R,Kentucky
+581,Trey Lyles,PF,6-9,234,1995-11-05,CA,4,Kentucky
+582,Chimezie Metu,C,6-9,225,1997-03-22,US,1,USC
+583,Patty Mills,PG,6-1,180,1988-08-11,AU,10,Saint Mary's
+584,Dejounte Murray,PG,6-4,180,1996-09-19,US,2,Washington
+585,Jakob Poeltl,C,7-1,245,1995-10-15,AT,3,Utah
+586,Luka Å amaniÄ‡,PF,6-10,227,2000-01-09,HR,R,
+587,Lonnie Walker,SG,6-5,204,1998-12-14,US,1,Miami (FL)
+588,Quinndary Weatherspoon,SG,6-3,205,1996-09-10,US,R,Mississippi State
+589,Derrick White,SG,6-4,190,1994-07-02,US,2,"Colorado-Colorado Springs, Colorado"
+590,Tyler Zeller,C,7-0,253,1990-01-17,US,7,UNC
+591,OG Anunoby,SF,6-7,232,1997-07-17,GB,2,Indiana
+592,Chris Boucher,C,6-9,200,1993-01-11,LC,2,Oregon
+593,Oshae Brissett,SF,6-7,210,1998-06-20,CA,R,Syracuse
+594,Terence Davis,SG,6-4,201,1997-05-16,US,R,Ole Miss
+595,Marc Gasol,C,6-11,255,1985-01-29,ES,11,
+596,Dewan Hernandez,C,6-10,235,1996-12-09,US,R,Miami (FL)
+597,Rondae Hollis-Jefferson,PF,6-6,217,1995-01-03,US,4,Arizona
+598,Serge Ibaka,C,7-0,235,1989-09-18,CG,10,
+599,Stanley Johnson,PF,6-6,242,1996-05-29,US,4,Arizona
+600,Kyle Lowry,PG,6-0,196,1986-03-25,US,13,Villanova
+601,Patrick McCaw,SF,6-7,181,1995-10-25,US,3,UNLV
+602,Malcolm Miller,SF,6-7,210,1993-03-06,US,2,Holy Cross
+603,Shamorie Ponds,PG,6-0,180,1998-06-29,US,R,St. John's
+604,Norman Powell,SG,6-3,215,1993-05-25,US,4,UCLA
+605,Pascal Siakam,PF,6-9,230,1994-04-02,CM,3,New Mexico State
+606,Matt Thomas,SG,6-4,190,1994-08-04,US,R,Iowa State
+607,Fred VanVleet,SG,6-1,197,1994-02-25,US,3,Wichita State
+608,Paul Watson,SF,6-7,215,1994-12-30,US,R,Fresno State
+609,Bojan BogdanoviÄ‡,SF,6-8,226,1989-04-18,BA,5,
+610,Tony Bradley,C,6-10,248,1998-01-08,US,2,UNC
+611,Jarrell Brantley,PF,6-5,250,1996-06-07,US,R,College of Charleston
+612,Jordan Clarkson,SG,6-4,194,1992-06-07,US,5,"Tulsa, Missouri"
+613,Mike Conley,PG,6-1,175,1987-10-11,US,12,Ohio State
+614,Ed Davis,C,6-9,218,1989-06-05,US,9,UNC
+615,Dante Exum,SG,6-5,214,1995-07-13,AU,4,
+616,Rudy Gobert,C,7-1,258,1992-06-26,FR,6,
+617,Jeff Green,PF,6-8,235,1986-08-28,US,11,Georgetown
+618,Joe Ingles,PF,6-7,220,1987-10-02,AU,5,
+619,Stanton Kidd,SG,6-6,215,1992-03-18,US,R,"South Plains College, NC Central, Colorado State"
+620,Donovan Mitchell,SG,6-1,215,1996-09-07,US,2,Louisville
+621,Juwan Morgan,PF,6-8,232,1997-04-17,US,R,Indiana
+622,Emmanuel Mudiay,PG,6-3,200,1996-03-05,CD,4,
+623,Georges Niang,PF,6-7,230,1993-06-17,US,3,Iowa State
+624,Royce O'Neale,SF,6-4,226,1993-06-05,US,2,"Denver, Baylor"
+625,Miye Oni,SF,6-5,206,1997-08-04,US,R,Yale
+626,Rayjon Tucker,SG,6-5,210,1997-09-24,US,R,
+627,Nigel Williams-Goss,PG,6-2,190,1994-09-16,US,R,"Gonzaga, Washington"
+628,Justin Wright-Foreman,PG,6-0,190,1997-10-27,US,R,Hofstra
+629,Bradley Beal,SG,6-3,207,1993-06-28,US,7,Florida
+630,DÄvis BertÄns,PF,6-10,225,1992-11-12,LV,3,
+631,Isaac Bonga,SF,6-8,180,1999-11-08,DE,1,
+632,Troy Brown,SF,6-6,215,1999-07-28,US,1,Oregon
+633,Thomas Bryant,C,6-10,248,1997-07-31,US,2,Indiana
+634,Chris Chiozza,PG,5-11,175,1995-11-21,US,1,Florida
+635,Jerian Grant,SG,6-4,205,1992-10-09,US,4,Notre Dame
+636,Rui Hachimura,PF,6-8,230,1998-02-08,JP,R,Gonzaga
+637,Ian Mahinmi,C,6-11,262,1986-11-05,FR,11,
+638,Garrison Mathews,SG,6-5,215,1996-10-24,US,R,Lipscomb
+639,Jordan McRae,SG,6-5,179,1991-03-28,US,3,Tennessee
+640,C.J. Miles,SF,6-6,220,1987-03-18,US,14,
+641,Shabazz Napier,PG,6-0,175,1991-07-14,US,5,UConn
+642,AnÅ¾ejs PaseÄÅ†iks,C,7-1,229,1995-12-20,LV,R,
+643,Gary Payton,SF,6-3,190,1992-12-01,US,3,Oregon State
+644,Jerome Robinson,SG,6-4,190,1997-02-22,US,1,Boston College
+645,Justin Robinson,PG,6-1,195,1997-10-12,US,R,Virginia Tech
+646,Admiral Schofield,PF,6-5,241,1997-03-30,GB,R,Tennessee
+647,Ish Smith,PG,6-0,175,1988-07-05,US,9,Wake Forest
+648,Isaiah Thomas,PG,5-9,185,1989-02-07,US,8,Washington
+649,Jarrod Uthoff,PF,6-9,221,1993-05-19,US,1,Iowa
+650,Moritz Wagner,C,6-11,245,1997-04-26,DE,1,Michigan
+651,Johnathan Williams,PF,6-9,228,1995-05-22,US,1,"Missouri, Gonzaga"
+652,Bradley Beal,SG,6-3,207,1993-06-28,US,7,Florida
+653,DÄvis BertÄns,PF,6-10,225,1992-11-12,LV,3,
+654,Isaac Bonga,SF,6-8,180,1999-11-08,DE,1,
+655,Troy Brown,SF,6-6,215,1999-07-28,US,1,Oregon
+656,Thomas Bryant,C,6-10,248,1997-07-31,US,2,Indiana
+657,Chris Chiozza,PG,5-11,175,1995-11-21,US,1,Florida
+658,Jerian Grant,SG,6-4,205,1992-10-09,US,4,Notre Dame
+659,Rui Hachimura,PF,6-8,230,1998-02-08,JP,R,Gonzaga
+660,Ian Mahinmi,C,6-11,262,1986-11-05,FR,11,
+661,Garrison Mathews,SG,6-5,215,1996-10-24,US,R,Lipscomb
+662,Jordan McRae,SG,6-5,179,1991-03-28,US,3,Tennessee
+663,C.J. Miles,SF,6-6,220,1987-03-18,US,14,
+664,Shabazz Napier,PG,6-0,175,1991-07-14,US,5,UConn
+665,AnÅ¾ejs PaseÄÅ†iks,C,7-1,229,1995-12-20,LV,R,
+666,Gary Payton,SF,6-3,190,1992-12-01,US,3,Oregon State
+667,Jerome Robinson,SG,6-4,190,1997-02-22,US,1,Boston College
+668,Justin Robinson,PG,6-1,195,1997-10-12,US,R,Virginia Tech
+669,Admiral Schofield,PF,6-5,241,1997-03-30,GB,R,Tennessee
+670,Ish Smith,PG,6-0,175,1988-07-05,US,9,Wake Forest
+671,Isaiah Thomas,PG,5-9,185,1989-02-07,US,8,Washington
+672,Jarrod Uthoff,PF,6-9,221,1993-05-19,US,1,Iowa
+673,Moritz Wagner,C,6-11,245,1997-04-26,DE,1,Michigan
+674,Johnathan Williams,PF,6-9,228,1995-05-22,US,1,"Missouri, Gonzaga"
+675,Ryan Arcidiacono,PG,6-3,195,1994-03-26,US,2,Villanova
+676,Wendell Carter,C,6-9,270,1999-04-16,US,1,Duke
+677,Kris Dunn,PG,6-3,205,1994-03-18,US,3,Providence
+678,Cristiano FelÃ­cio,C,6-10,270,1992-07-07,BR,4,
+679,Daniel Gafford,C,6-10,234,1998-10-01,US,R,Arkansas
+680,Shaquille Harrison,SG,6-7,190,1993-10-06,US,2,Tulsa
+681,Chandler Hutchison,SF,6-7,210,1996-04-26,US,1,Boise State
+682,Luke Kornet,C,7-2,250,1995-07-15,US,2,Vanderbilt
+683,Zach LaVine,SG,6-6,200,1995-03-10,US,5,UCLA
+684,Lauri Markkanen,PF,7-0,240,1997-05-22,FI,2,Arizona
+685,Adam Mokoka,SF,6-5,190,1998-07-18,FR,R,
+686,Otto Porter,SF,6-8,198,1993-06-03,US,6,Georgetown
+687,TomÃ¡Å¡ SatoranskÃ½,SG,6-7,210,1991-10-30,CZ,3,
+688,Max Strus,SF,6-6,215,1996-03-28,US,R,"Lewis (IL), DePaul"
+689,Denzel Valentine,SF,6-4,220,1993-11-16,US,2,Michigan State
+690,Coby White,PG,6-4,195,2000-02-16,US,R,UNC
+691,Thaddeus Young,PF,6-8,235,1988-06-21,US,12,Georgia Tech
+692,Ryan Arcidiacono,PG,6-3,195,1994-03-26,US,2,Villanova
+693,Wendell Carter,C,6-9,270,1999-04-16,US,1,Duke
+694,Kris Dunn,PG,6-3,205,1994-03-18,US,3,Providence
+695,Cristiano FelÃ­cio,C,6-10,270,1992-07-07,BR,4,
+696,Daniel Gafford,C,6-10,234,1998-10-01,US,R,Arkansas
+697,Shaquille Harrison,SG,6-7,190,1993-10-06,US,2,Tulsa
+698,Chandler Hutchison,SF,6-7,210,1996-04-26,US,1,Boise State
+699,Luke Kornet,C,7-2,250,1995-07-15,US,2,Vanderbilt
+700,Zach LaVine,SG,6-6,200,1995-03-10,US,5,UCLA
+701,Lauri Markkanen,PF,7-0,240,1997-05-22,FI,2,Arizona
+702,Adam Mokoka,SF,6-5,190,1998-07-18,FR,R,
+703,Otto Porter,SF,6-8,198,1993-06-03,US,6,Georgetown
+704,TomÃ¡Å¡ SatoranskÃ½,SG,6-7,210,1991-10-30,CZ,3,
+705,Max Strus,SF,6-6,215,1996-03-28,US,R,"Lewis (IL), DePaul"
+706,Denzel Valentine,SF,6-4,220,1993-11-16,US,2,Michigan State
+707,Coby White,PG,6-4,195,2000-02-16,US,R,UNC
+708,Thaddeus Young,PF,6-8,235,1988-06-21,US,12,Georgia Tech
+709,Ryan Arcidiacono,PG,6-3,195,1994-03-26,US,2,Villanova
+710,Wendell Carter,C,6-9,270,1999-04-16,US,1,Duke
+711,Kris Dunn,PG,6-3,205,1994-03-18,US,3,Providence
+712,Cristiano FelÃ­cio,C,6-10,270,1992-07-07,BR,4,
+713,Daniel Gafford,C,6-10,234,1998-10-01,US,R,Arkansas
+714,Shaquille Harrison,SG,6-7,190,1993-10-06,US,2,Tulsa
+715,Chandler Hutchison,SF,6-7,210,1996-04-26,US,1,Boise State
+716,Luke Kornet,C,7-2,250,1995-07-15,US,2,Vanderbilt
+717,Zach LaVine,SG,6-6,200,1995-03-10,US,5,UCLA
+718,Lauri Markkanen,PF,7-0,240,1997-05-22,FI,2,Arizona
+719,Adam Mokoka,SF,6-5,190,1998-07-18,FR,R,
+720,Otto Porter,SF,6-8,198,1993-06-03,US,6,Georgetown
+721,TomÃ¡Å¡ SatoranskÃ½,SG,6-7,210,1991-10-30,CZ,3,
+722,Max Strus,SF,6-6,215,1996-03-28,US,R,"Lewis (IL), DePaul"
+723,Denzel Valentine,SF,6-4,220,1993-11-16,US,2,Michigan State
+724,Coby White,PG,6-4,195,2000-02-16,US,R,UNC
+725,Thaddeus Young,PF,6-8,235,1988-06-21,US,12,Georgia Tech
+726,Goga Bitadze,C,6-11,250,1999-07-20,GE,R,
+727,Brian Bowen,SF,6-6,190,1998-10-02,US,R,
+728,Malcolm Brogdon,PG,6-5,229,1992-12-11,US,3,Virginia
+729,Aaron Holiday,PG,6-0,185,1996-09-30,US,1,UCLA
+730,Justin Holiday,SF,6-6,180,1989-04-05,US,6,Washington
+731,Alize Johnson,PF,6-7,212,1996-04-22,US,1,Missouri State
+732,Jeremy Lamb,SG,6-5,180,1992-05-30,US,7,UConn
+733,T.J. Leaf,PF,6-10,222,1997-04-30,IL,2,UCLA
+734,T.J. McConnell,PG,6-1,190,1992-03-25,US,4,"Duquesne, Arizona"
+735,Doug McDermott,PF,6-7,225,1992-01-03,US,5,Creighton
+736,Naz Mitrou-Long,SG,6-3,218,1993-08-03,CA,2,Iowa State
+737,Victor Oladipo,SG,6-4,213,1992-05-04,US,6,Indiana
+738,Domantas Sabonis,PF,6-11,240,1996-05-03,US,3,Gonzaga
+739,JaKarr Sampson,PF,6-7,214,1993-03-20,US,4,St. John's
+740,Edmond Sumner,SG,6-4,196,1995-12-31,US,2,Xavier
+741,Myles Turner,C,6-11,250,1996-03-24,US,4,Texas
+742,T.J. Warren,SF,6-8,220,1993-09-05,US,5,NC State
+743,Bradley Beal,SG,6-3,207,1993-06-28,US,7,Florida
+744,DÄvis BertÄns,PF,6-10,225,1992-11-12,LV,3,
+745,Isaac Bonga,SF,6-8,180,1999-11-08,DE,1,
+746,Troy Brown,SF,6-6,215,1999-07-28,US,1,Oregon
+747,Thomas Bryant,C,6-10,248,1997-07-31,US,2,Indiana
+748,Chris Chiozza,PG,5-11,175,1995-11-21,US,1,Florida
+749,Jerian Grant,SG,6-4,205,1992-10-09,US,4,Notre Dame
+750,Rui Hachimura,PF,6-8,230,1998-02-08,JP,R,Gonzaga
+751,Ian Mahinmi,C,6-11,262,1986-11-05,FR,11,
+752,Garrison Mathews,SG,6-5,215,1996-10-24,US,R,Lipscomb
+753,Jordan McRae,SG,6-5,179,1991-03-28,US,3,Tennessee
+754,C.J. Miles,SF,6-6,220,1987-03-18,US,14,
+755,Shabazz Napier,PG,6-0,175,1991-07-14,US,5,UConn
+756,AnÅ¾ejs PaseÄÅ†iks,C,7-1,229,1995-12-20,LV,R,
+757,Gary Payton,SF,6-3,190,1992-12-01,US,3,Oregon State
+758,Jerome Robinson,SG,6-4,190,1997-02-22,US,1,Boston College
+759,Justin Robinson,PG,6-1,195,1997-10-12,US,R,Virginia Tech
+760,Admiral Schofield,PF,6-5,241,1997-03-30,GB,R,Tennessee
+761,Ish Smith,PG,6-0,175,1988-07-05,US,9,Wake Forest
+762,Isaiah Thomas,PG,5-9,185,1989-02-07,US,8,Washington
+763,Jarrod Uthoff,PF,6-9,221,1993-05-19,US,1,Iowa
+764,Moritz Wagner,C,6-11,245,1997-04-26,DE,1,Michigan
+765,Johnathan Williams,PF,6-9,228,1995-05-22,US,1,"Missouri, Gonzaga"
