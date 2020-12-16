@@ -2,7 +2,7 @@
 
 <h4> Introduction </h4>
 <P> In our analysis we go through a series of processes in order 
-to accurately assess NBA data. These processes include extracting data, tranforming data and loading 
+to accurately assess NBA data. These processes include extracting data, transforming data and loading 
 data.  </p>
 
 
@@ -16,10 +16,10 @@ data.  </p>
 <p> </p>
 
 <h4>Methods</h4>
-<p> Our Methods were concentrated in the area of ELT developement(Extract, Transform, and Load).
-As part of our extraction process we used various extracting methods like webscraping, API calls, and downloading data files like csv and json. All of this gave us the foundation to begin our analysis.</p>
+<p> Our Methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
+As part of our extraction process we used various extracting methods like webscraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
 
-<p>Next we began our transformational modification with all the data collected. (Specifics)</p>
+<p>Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary keys aswell as foreign keys to prepare for the loading of each table. </p>
 
 <p>Load</p>
 
