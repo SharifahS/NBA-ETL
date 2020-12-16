@@ -4,10 +4,10 @@
 <P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
 
 <h4>Background</h4>
-<p> This project is the second series to a four part analysis. Our previous analysis was done on NBA stats with the intention to create insightful content and visualization that would then be used as the foundation for our continued analysis. </p>
+<p> This project is the second part of a larger NBA statistical analysis report. Our previous analysis was done on a similar selection of NBA player and team statistical data. The goal was to create insightful visualizations and to highlight relevant trends that became the foundations for this project moving forward. </p>
 
 <h4>Purpose</h4>
-<p>The purpose of this assignment is to showcase our ability to extract data from various sources as well as cleaning the data and loading the results in a database with public access. </p>
+<p>The purpose of this project is to showcase our ability to create an efficient ETL pipeline. The data was extracted from various sources, it was cleaned and tranformed in python and then uploaded to a databse on MongoDB. </p>
 
 <h4>Methods</h4>
 <p> Our methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
@@ -27,8 +27,8 @@ As part of the extraction process we used various extracting methods like web sc
 <ul>
 
 <li>VS Code</li>
+<li>MongoDB</li>
 <li>Quick DBD</li>
-<li>PostgreSQL</li>
 <li>Jupyter Notebook</li>
 
 </ul>
@@ -39,6 +39,6 @@ As part of the extraction process we used various extracting methods like web sc
 <li> <a href="https://www.kaggle.com/">Kaggle</a></li>
 <li> <a href="https://data.world/">Data World</a></li>
 <li> <a href="https://www.basketball-reference.com/">Basketball Reference</a></li>
-<li> <a href="pip install nba-api">NBA API Python Library</a></li>
+<li> <a href="https://pypi.org/project/nba-api/">NBA API Python Library</a></li>
 </ul>
 
