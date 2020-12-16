@@ -12,16 +12,17 @@ data.  </p>
 <h4>Purpose</h4>
 <p>The purpose of this assignment is to showcase our ability to extract data from various sources as well as cleaning the data and loading the results in a database with public access. </p>
 
-<h4>Limitations<h4>
-<p> </p>
 
 <h4>Methods</h4>
 <p> Our Methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
-As part of our extraction process we used various extracting methods like webscraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
+As part of our extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
 
 <p>Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary keys aswell as foreign keys to prepare for the loading of each table. </p>
 
 <p>Load</p>
+
+<h4>Limitations<h4>
+<p> </p>
 
 <h4>Results</h4>
 <p> </p>
