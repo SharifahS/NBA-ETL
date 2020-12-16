@@ -12,12 +12,11 @@
 <h4>Methods</h4>
 <p> The following methods were used; extract, transform, and load.
 
+Extract<p>As part of the extraction process we scraped the website Basketball-Reference.com, we used the nba API python library, and downloaded csv and json files from Kaggle and Data World. This gave us enough data to move to the transform stage.</p>
 
-<p><h5>Extract</h5>As part of the extraction process we scraped the website Basketball-Reference.com, we used the nba API python library, and downloaded csv and json files from Kaggle and Data World. This gave us enough data to move to the transform stage.</p>
+Transform<p>The first thing done was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. The values in each column were then counted to make sure that all the columns have the same length. All the rows with missing or corrupted data were then removed and all unccessary columns were droped. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the load process. </p>
 
-<p><h5>Transform</h5>The first thing done was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. The values in each column were then counted to make sure that all the columns have the same length. All the rows with missing or corrupted data were then removed and all unccessary columns were droped. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the load process. </p>
-
-<p><h5>Load</h5>The data was then uploaded to mongoDB using the py mongo python library.</p>
+Load<p>The data was then uploaded to mongoDB using the py mongo python library.</p>
 
 <h4>Limitations</h4>
 <p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on s
