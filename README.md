@@ -10,15 +10,22 @@
 <p>The purpose of this project is to showcase our ability to create an efficient ETL pipeline. The data was extracted from various sources, it was cleaned and tranformed in python and then uploaded to a databse on MongoDB. </p>
 
 <h4>Methods</h4>
-<p> Our methods were concentrated in the area of ETL developement(Extract, Transform, and Load).
-As part of the extraction process we used various extracting methods like web scraping, API calls, and downloading data files like csv and json. This gave us the foundation to begin the analysis.</p>
+<p> The following methods were used; extract, transform, and load.
 
-<p> Next we began our transformational modification of all the data that had been collected. The first thing that we did was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. We then removed all rows with missing or corrupted data and droped any uneccessay columns. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the loading of each table. </p>
+<h5>Extract</h5>
+As part of the extraction process we scraped the website Basketball-Reference.com, we used the nba API python library, and downloaded csv and json files from Kaggle and Data World. This gave us enough data to move to the transform stage.</p>
 
-<p>In this final portion of this project we uploaded each clean table that was created and stored it into the mongodb database. This completes the loading aspect of the project and our data tables can now be accessed at anytime.</p>
+<h5>Transform</h5>
+<p> The first thing done was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. The values in each column were then counted to make sure that all the columns have the same length. All the rows with missing or corrupted data were then removed and all unccessary columns were droped. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the load process. </p>
+
+<>
+<p>The data was then uploaded to mongoDB using the py mongo python library. Uploaded each clean table that was created and stored it into the mongodb database. This completes the loading aspect of the project and our data tables can now be accessed at anytime.</p>
 
 <h4>Limitations</h4>
-<p>Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we load the tables into MongoDB instead.</p>
+<p>Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on s
+
+
+ome websites with the setback we were unable to scrape all the websites we had initially decided</p>
 
 <h4>Results</h4>
 <p> </p>
