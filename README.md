@@ -23,7 +23,7 @@ Load<p>The data was then uploaded to mongoDB using the py mongo python library.<
 <p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationship which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
 
 <h4>Results</h4>
-<p>Every aspect of the ETL process was successful. We were able to extract large sets of data from multiple sources, transform the data into workable data frames and load each table into a database.</p>
+<p>Every aspect of the ETL process was successful. We were able to extract large sets of data from multiple sources, transform the data into workable data frames and load each table into a database. The next steps to this project would involve a thorough data analysis of the tables created, looking for any interesting trends within the data. Relevant findings will then be visualized and costumized accordingly. </p>
 
 <h4>Instrumentation</h4>
 <ul>
