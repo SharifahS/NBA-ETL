@@ -14,18 +14,16 @@
 
 Extract<p>As part of the extraction process we scraped the website Basketball-Reference.com, we used the nba API python library, and downloaded csv and json files from Kaggle and Data World. This gave us enough data to move to the transform stage.</p>
 
-Transform<p>The first thing done was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. The values in each column were then counted to make sure that all the columns have the same length. All the rows with missing or corrupted data were then removed and all unccessary columns were droped. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the load process. </p>
+Transform<p>The first thing done was inspect the data types of all the columns within each table to see compatibility and adjust accordingly. The values in each column were then counted to make sure that all the columns have the same length. All the rows with missing or corrupted data were then removed and all unccessary columns were dropped. Different data tables were then joined together to create larger more complete data tables. Finally each table was given a primary key aswell as a foreign key to prepare for the load process. </p>
 
 Load<p>The data was then uploaded to mongoDB using the py mongo python library.</p>
+![mongodb](Load/loaded_db_colls.png)
 
 <h4>Limitations</h4>
-<p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
-
-
-ome websites with the setback we were unable to scrape all the websites we had initially decided</p>
+<p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationship which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
 
 <h4>Results</h4>
-<p> </p>
+<p>Every aspect of the ETL process was successful. We were able to extract large sets of data from multiple sources, transform the data into workable data frames and load each table into a database.</p>
 
 <h4>Instrumentation</h4>
 <ul>
