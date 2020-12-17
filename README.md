@@ -19,7 +19,7 @@ Transform<p>The first thing done was inspect the data types of all the columns w
 Load<p>The data was then uploaded to mongoDB using the py mongo python library.</p>
 
 <h4>Limitations</h4>
-<p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships. Alternately, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on s
+<p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationships which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
 
 
 ome websites with the setback we were unable to scrape all the websites we had initially decided</p>
