@@ -1,7 +1,7 @@
 # ETL NBA Report 
 
 <h4> Introduction </h4>
-<P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
+<P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a non-relational database.  </p>
 
 <h4>Background</h4>
 <p> This project is the second part of a larger NBA statistical analysis report. Our previous analysis was done on a similar selection of NBA player and team statistical data. The goal was to create insightful visualizations and to highlight relevant trends that became the foundations for this project moving forward. </p>
@@ -23,7 +23,7 @@
 <p> Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationship which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
 
 <h4>Results</h4>
-<p>Every aspect of the ETL process was successful. We were able to extract large sets of data from multiple sources, transform the data into workable data frames and load each table into a database. The next steps to this project would involve a thorough data analysis of the tables created, looking for any interesting trends within the data. Relevant findings will then be visualized and costumized accordingly. </p>
+<p>Every aspect of the ETL process was successful. We were able to extract large sets of data from multiple sources, transform the data into workable data frames and load each table into a database. The next steps to this project would involve a thorough data analysis of the tables created, looking for any interesting trends within the data. Relevant findings will then be visualized and costumized accordingly.  A side note, the tables can also be uploaded to a public server for easier access. </p>
 
 <h4>Instrumentation</h4>
 <ul>
