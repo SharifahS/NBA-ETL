@@ -21,7 +21,7 @@
 
 - Load
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The data was then uploaded to MongoDB using the py mongo python library.</p>
-![mongodb]Load/loaded_db_colls.png
+![mongodb](Load/loaded_db_colls.png)
 
 <h4>Limitations</h4>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initially we wanted to load the tables into Postgres. However, while creating the ERD and the tables schemata we realized that the primary keys were not all unique. For example, one of the primary keys was the player names field; but the tables have a one to many and many to many relationship which would create issues when joining tables.  Alternatively, we loaded the tables into MongoDB instead. Another complication that we encountered was increased security on sites.
