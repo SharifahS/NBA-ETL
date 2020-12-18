@@ -2,10 +2,10 @@
 #### George, Sharifah, Jim, Vena
 
 <h4> Introduction </h4>
-<P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
+<P> &nbsp;&nbsp;For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
 
 <h4>Background</h4>
-<p> This project is the second part of a larger NBA statistical analysis report. Our previous analysis was done on a similar selection of NBA player and team statistical data. The goal was to create insightful visualizations and to highlight relevant trends that became the foundations for this project moving forward. </p>
+<p> &nbsp;&nbsp;This project is the second part of a larger NBA statistical analysis report. Our previous analysis was done on a similar selection of NBA player and team statistical data. The goal was to create insightful visualizations and to highlight relevant trends that became the foundations for this project moving forward. </p>
 
 <h4>Purpose</h4>
 <p>The purpose of this project is to showcase our ability to create an efficient ETL pipeline. The data was extracted from various sources, it was cleaned and tranformed in python and then uploaded to a databse on MongoDB. </p>
