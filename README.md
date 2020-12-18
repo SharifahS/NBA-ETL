@@ -1,4 +1,5 @@
 # ETL NBA Report 
+#### George, Sharifah, Jim, Vena
 
 <h4> Introduction </h4>
 <P> For this project, we extract, transform and load raw NBA data gathered from various sources. Showcasing our ability to create an efficient process of extracting data, transforming data and loading data was the main goal. The final tables provide information on a variety of NBA player statistics. The data was gathered from different sources and using different methods, was cleaned, transformed and and finally loaded to a public database.  </p>
