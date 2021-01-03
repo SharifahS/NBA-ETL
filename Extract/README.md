@@ -1,4 +1,4 @@
 # Extract
 
-<p>Data collection from multiple sources!</p>
+<p>Data collection from multiple sources.</p>
 
